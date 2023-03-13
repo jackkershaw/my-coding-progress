@@ -1,0 +1,56 @@
+
+- 14th October: done 14 October :) [Setting up a web page](https://oliverjam.es/blog/complete-guide-to-making-web-pages/)
+- 17th October: [MDN: Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- done installing basic software and set up local testing server, the basic one at least. 
+- Next is just a case of reading through html basics bit, onwards. 
+- 22nd October continuing with it
+ - 24th October – working on CSS Basics and Javascript basics 27th October did JS bit and publishing on the web. 
+ - 29th October published via github J jones58.github.io J  Finished getting started with the web J
+ - 30th October, working on 	[freeCodeCamp: Responsive web design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+ - 1 November – continuing with the cat photo app, got up to section 52, keep going with it [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+ - 14 November – continuing with above, done Cat Photo App keep going with Café menu, continue from step 5 [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+ - 20 November – continuing with Café menu got from step 5 to step 44 [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+ - 22 November – continuing with Café menu got from step 44 to step 64 [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+ - 3 December – finished café menu, now doing colored markers: done up to step 12 [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-13)
+ - 1 January – Doing colored markers, done up to step 88, keep going here: [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-13)
+ - 2nd January – finished colored markers, moving onto form building. Got up to step 53, keep going here: <https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-33> 
+ - 8 January: Finished form example, working on survey form 
+ - 17 January: done survey form .Got up to step 5 responsive web design. 
+ - 18 January: finished Rothko painting, css flexbox and now started on typography nutrition label, done up to step 16. 
+ - 19 january:  continued from step 16 up to 59 of the nutrition label for learning typography.  <https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-16> 
+ - 20 January: Finished the nutrition label, moved to Learning Accessibility by building a quiz. 
+ - 21st January: Working on accessibility quiz  up to step 49. 
+ - 22nd January: continue accessibility quiz from step 50 here: <https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-50>. Finished accessibility quiz. ***Probably a few things will need to go over again from this, look through code tbh and look up on w3 if need help***
+ - 23rd January: finished tribute page, moved to css pseudo selectors
+ - 24th January: css pseudo selectors
+ - 25th January: Looking into Git and watching videos. 
+ - 29th January: Finishing going through git and github bits. Watched these: <https://git-scm.com/videos> 
+ - 30th January: finished this: [Getting started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
+ - 31st January: Went through this [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow) and started on first project and the installation thing for FAC https://learn.foundersandcoders.com/course/handbook/installation/ incl bit on changing the terminal.  At space 4: Started working on the first project. 
+ - 1st February: Added favicon to site and image and text https://learn.foundersandcoders.com/course/syllabus/application/hobby-page/project/  
+ - 5 February: Did some of skillshare and edited site a bit (see github commits for details), link opening in new tab. 
+ - 6 February: Done more of skillshare and started figma draft of site (maybe do on penpot or something)
+ - 7 feb: Worked on site at space 4 
+ - 8 feb: Worked more on site, resolving background colours and fonts. Made a resources folder on github (push with github desktop)
+ - 21 feb: working at space 4 on hobby page, almost finished. 
+ - 22 feb: editing hobby page - adding text with ChatGPT
+ - 23 feb: refinind Obsidian setup with Github, sorting out notes. Reading up on HTML on W3 Schools site: https://www.w3schools.com/html/default.asp
+ - 25 feb: Reading up on HTML formatting W3 Schools
+ - 26 feb: Learning about Javascript, reading Javascript Basics doc https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics 
+ - 3rd March: Reading more of Javascript Basics page and started on javascripting 
+ - 7th March: Working on misc resources sorting out and Sync conflicts Obsidian to phone, continued learning javascript with javascripting up to step 6
+ - 8th March: Javascripting up to step 10 and GitIt app up to remote control 
+ - 9th March: Finished working through GitIt app, learning how to push, pull, use different branches and work with collaborators. 
+ - 10th March: Finished javascripting course, organised todoist according to course requirements and got up to step 54 balance sheet responsive web design. 
+ - 11th March: finished balance sheet project in responsive web design, done picasso one up to step 54. 
+ - Next: see todoist FAC Projects
+ 
+See notes so far:
+- [[HTML notes]]
+- [[CSS notes]]
+- [[Javascript notes]]
+- [[git and command line notes]]
+- [[Notes from Space 4 Meetups]]
+- [[VS Code shortcuts]]
+
+
