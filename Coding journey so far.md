@@ -43,6 +43,7 @@
  - 9th March: Finished working through GitIt app, learning how to push, pull, use different branches and work with collaborators. 
  - 10th March: Finished javascripting course, organised todoist according to course requirements and got up to step 54 balance sheet responsive web design. 
  - 11th March: finished balance sheet project in responsive web design, done picasso one up to step 54. 
+ - 13th March: finished picasso and got up to step 32 on piano 
  - Next: see todoist FAC Projects
  
 See notes so far:
