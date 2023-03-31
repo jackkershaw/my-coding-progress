@@ -45,6 +45,7 @@
  - 11th March: finished balance sheet project in responsive web design, done picasso one up to step 54. 
  - 13th March: finished picasso and got up to step 32 on piano 
  - 14th March: finished piano, and did the technical documentation page on freecodecamp. Learnt how to do nav bar, clicking to id with href and basic media queries :) 
+ - 31st March: Back to it, bit rusty after a break, need to get back to an hour a day. Working on City Skyline CSS, finished
  - Next: see todoist FAC Projects
  
 See notes so far:
