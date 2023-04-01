@@ -46,7 +46,8 @@
  - 13th March: finished picasso and got up to step 32 on piano 
  - 14th March: finished piano, and did the technical documentation page on freecodecamp. Learnt how to do nav bar, clicking to id with href and basic media queries :) 
  - 31st March: Back to it, bit rusty after a break, need to get back to an hour a day. Working on City Skyline CSS, finished. up to step 8 on magazine.
- - 1 April: Working on Freecodecamp magazine from step 8,  and did the CSS Grid game [here](https://cssgridgarden.com/) Next: see todoist FAC Projects
+ - 1 April: Finished Freecodecamp magazine from step 8,  and did the CSS Grid game [here](https://cssgridgarden.com/). Also working on product page, up to required values - next need to work on css to make it look better.
+ - Next: see todoist FAC Projects
  
 See notes so far:
 - [[HTML notes]]
