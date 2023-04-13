@@ -47,15 +47,17 @@
  - 14th March: finished piano, and did the technical documentation page on freecodecamp. Learnt how to do nav bar, clicking to id with href and basic media queries :) 
  - 31st March: Back to it, bit rusty after a break, need to get back to an hour a day. Working on City Skyline CSS, finished. up to step 8 on magazine.
  - 1 April: Finished Freecodecamp magazine from step 8,  and did the CSS Grid game [here](https://cssgridgarden.com/). Also working on product page, up to required values - next need to work on css to make it look better.
- - 13 April: rusty after easter break, return to an hour a day to keep on top of knowledge. Working on CSS of product page for 3.5hours, then another hour on....
+ - 13 April: rusty after easter break, return to an hour a day to keep on top of knowledge. Working on CSS of product page for 4 hours, completed it. Then spent half an hour on next project: the ferris wheel. 
  - Next: see todoist FAC Projects
  
 See notes so far:
 - [[HTML notes]]
 - [[CSS notes]]
+	-  [[CSS animations]]
 - [[Javascript notes]]
 - [[git and command line notes]]
 - [[Notes from Space 4 Meetups]]
 - [[VS Code shortcuts]]
+
 
 
