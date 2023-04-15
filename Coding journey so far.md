@@ -48,8 +48,9 @@
  - 31st March: Back to it, bit rusty after a break, need to get back to an hour a day. Working on City Skyline CSS, finished. up to step 8 on magazine.
  - 1 April: Finished Freecodecamp magazine from step 8,  and did the CSS Grid game [here](https://cssgridgarden.com/). Also working on product page, up to required values - next need to work on css to make it look better.
  - 13 April: rusty after easter break, return to an hour a day to keep on top of knowledge. Working on finishing CSS of product page for 4 hours. Then spent an hour on finishing the next project: the ferris wheel. Spent half an hour getting up to step 13 of penguin css. 
- - 14 april: Finished CSS Penguin in 2.5 hours and edited snippets and gists in snippetslab and github gists. 
- - 15 april: portfolio project
+ - 14 April: Finished CSS Penguin in 2.5 hours and edited snippets and gists in snippetslab and github gists. 
+ - 15 April: Working on portfolio project for 1.5 hours
+ - 16 April: 
  - Next: see todoist FAC Projects
  
 See notes so far:
