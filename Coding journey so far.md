@@ -50,7 +50,7 @@
  - 13 April: rusty after easter break, return to an hour a day to keep on top of knowledge. Working on finishing CSS of product page for 4 hours. Then spent an hour on finishing the next project: the ferris wheel. Spent half an hour getting up to step 13 of penguin css. 
  - 14 April: Finished CSS Penguin in 2.5 hours and edited snippets and gists in snippetslab and github gists. 
  - 15 April: Working on portfolio project for 1.5 hours
- - 16 April: 
+ - 16 April:  Testing and debugging site on mobile for 2 hours, including setting the youtube videos to show up at different sizes on mobile. 
  - Next: see todoist FAC Projects
  
 See notes so far:
