@@ -50,7 +50,8 @@
  - 13 April: rusty after easter break, return to an hour a day to keep on top of knowledge. Working on finishing CSS of product page for 4 hours. Then spent an hour on finishing the next project: the ferris wheel. Spent half an hour getting up to step 13 of penguin css. 
  - 14 April: Finished CSS Penguin in 2.5 hours and edited snippets and gists in snippetslab and github gists. 
  - 15 April: Working on portfolio project for 1.5 hours
- - 16 April:  Testing and debugging site on mobile for 2 hours, including setting the youtube videos to show up at different sizes on mobile. 
+ - 16 April:  Testing and debugging site on mobile for 4 hours, including setting the youtube videos to show up at different sizes on mobile and various other debugging. Some issues with overflow-x. Submitted as final stage of the FreeCodeCamp Responsive Web Design course. 
+ - 17 April:  Gotta move onto Javascript - the bit that's useful for course. Also will need to edit hobby page site so it's more like portfolio site. 
  - Next: see todoist FAC Projects
  
 See notes so far:
