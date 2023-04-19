@@ -51,13 +51,15 @@
  - 14 April: Finished CSS Penguin in 2.5 hours and edited snippets and gists in snippetslab and github gists. 
  - 15 April: Working on portfolio project for 1.5 hours
  - 16 April:  Testing and debugging site on mobile for 4 hours, including setting the youtube videos to show up at different sizes on mobile and various other debugging. Some issues with overflow-x. Submitted as final stage of the FreeCodeCamp Responsive Web Design course. 
- - 17 April:  Gotta move onto Javascript - the bit that's useful for course. Also will need to edit hobby page site so it's more like portfolio site. 
+ - 17 April: Reading through resources for HTML and CSS for 1.5 hours, then 2.5 hours working on javascript - making notes and going through freecodecamp Javascript course. 
+ - 18 April: Continuing with FreeCodeCamp basic javascript
+ - 19 April: 2 hours on FreeCodeCamp basic javascript 
+ - 20 April: 
  - Next: see todoist FAC Projects
  
 See notes so far:
 - [[HTML notes]]
 - [[CSS notes]]
-	-  [[CSS animations]]
 - [[Javascript notes]]
 - [[git and command line notes]]
 - [[Notes from Space 4 Meetups]]
