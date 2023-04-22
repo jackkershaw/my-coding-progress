@@ -54,8 +54,9 @@
  - 17 April: Reading through resources for HTML and CSS for 1.5 hours, then 2.5 hours working on javascript - making notes and going through freecodecamp Javascript course. 
  - 18 April: Continuing with FreeCodeCamp basic javascript
  - 19 April: 2 hours on FreeCodeCamp basic javascript 
- - 20 April: 
- - Next: see todoist FAC Projects
+ - 20 April: 1 hour on basic javascript, writing in [[Javascript notes]]
+ - 22 April: North Coders Javascript basics course and writing notes. 
+ - 23 April: Contrinue north coders course  https://l2c.northcoders.com/courses/js-basics/expressions#sectionId=string-concatenation,step=intro
  
 See notes so far:
 - [[HTML notes]]
