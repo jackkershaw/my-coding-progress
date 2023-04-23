@@ -56,7 +56,8 @@
  - 19 April: 2 hours on FreeCodeCamp basic javascript 
  - 20 April: 1 hour on basic javascript, writing in [[Javascript notes]]
  - 22 April: North Coders Javascript basics course and writing notes. 
- - 23 April: Contrinue north coders course  https://l2c.northcoders.com/courses/js-basics/expressions#sectionId=string-concatenation,step=intro
+ - 23 April: Contrinuing north coders course and setting up vscodium to run javascript, 1.5 hours then another 1 hour later on northcoders. 
+ - 24 April: https://l2c.northcoders.com/courses/js-basics/conditional-logic#sectionId=truthy-values,step=intro
  
 See notes so far:
 - [[HTML notes]]
