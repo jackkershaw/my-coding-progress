@@ -57,8 +57,8 @@
  - 20 April: 1 hour on basic javascript, writing in [[Javascript notes]]
  - 22 April: North Coders Javascript basics course and writing notes. 
  - 23 April: Contrinuing north coders course and setting up vscodium to run javascript, 1.5 hours then another 1 hour later on northcoders. 
- - 1 May: Back to it after week illness, javascript course and notes 2hours
- - 
+ - 1 May: Back to it after week illness, javascript course and notes 5hours
+ - 2 May : keep going javascript notes
  
 See notes so far:
 - [[HTML notes]]
