@@ -57,7 +57,8 @@
  - 20 April: 1 hour on basic javascript, writing in [[Javascript notes]]
  - 22 April: North Coders Javascript basics course and writing notes. 
  - 23 April: Contrinuing north coders course and setting up vscodium to run javascript, 1.5 hours then another 1 hour later on northcoders. 
- - 24 April: https://l2c.northcoders.com/courses/js-basics/conditional-logic#sectionId=truthy-values,step=intro
+ - 1 May: Back to it after week illness, javascript course and notes 2hours
+ - 
  
 See notes so far:
 - [[HTML notes]]
