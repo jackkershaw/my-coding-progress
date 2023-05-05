@@ -59,7 +59,10 @@
  - 23 April: Contrinuing north coders course and setting up vscodium to run javascript, 1.5 hours then another 1 hour later on northcoders. 
  - 1 May: Back to it after week illness, javascript course and notes 5hours
  - 2 May: Javascript course and notes 3.5 hours
- - 3 May: Practice exercises and codewars
+ - 3 May: Javascript practice exercises and codewars
+ - 4 May: Javascript practice exercises, 1.5 hours
+ - 5 May:  Javascript practice exercises, 3.25 hour
+ - 6 May: finish javascript practice exercises then go back to FAC javascript bits with your new javascript knowledge, work on DOM and the date thing on first project. 
  
 See notes so far:
 - [[HTML notes]]
