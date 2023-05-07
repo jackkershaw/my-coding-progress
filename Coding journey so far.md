@@ -63,7 +63,8 @@
  - 4 May: Javascript practice exercises, 1.5 hours
  - 5 May:  Javascript practice exercises, 3.25 hour
  - 6 May:  Javascript practice exercises, 3 hours
- - 7 May: Check slack for help on exercise 13, and finish exercise 16 and 19 and then go back to FAC javascript bits with your new javascript knowledge, work on DOM and the date thing on first project. 
+ - 7 May: Finished Javascript practice exercises 1.5 hours
+ - 8 May Back to FAC javascript bits, work on DOM and the date thing on first project. 
  - can do javascript freecodecamp later, but first prioritise FAC essentials
  
 See notes so far:
