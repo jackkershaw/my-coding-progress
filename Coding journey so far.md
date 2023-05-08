@@ -64,8 +64,12 @@
  - 5 May:  Javascript practice exercises, 3.25 hour
  - 6 May:  Javascript practice exercises, 3 hours
  - 7 May: Finished Javascript practice exercises 1.5 hours
- - 8 May Back to FAC javascript bits, work on DOM and the date thing on first project. 
- - can do javascript freecodecamp later, but first prioritise FAC essentials
+ - 8 May 1 hour on FAC javascript bits, learning about  DOM 
+ - Next: 
+	 - finish reading https://oliverjam.es/articles/dom-intro
+	 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+	 - Date thing on first project, use this: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString
+
  
 See notes so far:
 - [[HTML notes]]
