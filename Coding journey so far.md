@@ -65,19 +65,16 @@
  - 6 May:  Javascript practice exercises, 3 hours
  - 7 May: Finished Javascript practice exercises 1.5 hours
  - 8 May 1 hour on FAC javascript bits, learning about the DOM 
- - 9 May 1 hour learning about the DOM
- - 10 May
+ - 9 May 2.5 hour learning about the DOM and doing codepen delete buttons on to do list
+ - 12 May 1 Hour learning on DOM and editing date on site
  - Next: 
-	 - finish reading from step 2 user input: https://oliverjam.es/articles/dom-intro
-	 - 7:50 onwards in. this https://www.youtube.com/watch?v=5fb2aPlgoys
-	 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-	 - Date thing on first project, use this: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString
-
+	 - 12.15 onwards in. this https://www.youtube.com/watch?v=5fb2aPlgoys
  
 See notes so far:
 - [[HTML notes]]
 - [[CSS notes]]
 - [[Javascript notes]]
+- [[The DOM]] 
 - [[git and command line notes]]
 - [[Notes from Space 4 Meetups]]
 - [[VS Code shortcuts]]
