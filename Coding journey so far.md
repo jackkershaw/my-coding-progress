@@ -64,17 +64,19 @@
  - 5 May:  Javascript practice exercises, 3.25 hour
  - 6 May:  Javascript practice exercises, 3 hours
  - 7 May: Finished Javascript practice exercises 1.5 hours
- - 8 May 1 hour on FAC javascript bits, learning about the DOM 
- - 9 May 2.5 hour learning about the DOM and doing codepen delete buttons on to do list
- - 12 May 1 Hour learning on DOM and editing date on site
- - Next: 
-	 - 12.15 onwards in. this https://www.youtube.com/watch?v=5fb2aPlgoys
+ - 8 May: 1 hour on FAC javascript bits, learning about the DOM 
+ - 9 May: 2.5 hour learning about the DOM and doing codepen delete buttons on to do list
+ - 12 May: 1 hour learning about DOM and editing date on site
+ - 13 May: 1 hour learning with FreeCodeCamp Javascript basics course and Codewars and reading up on various bits and pieces to do with Javascript
+ - 14 May: 1 hour on 15 Javascript challenges, then 0.5 hour on Codewars, then 2 hour on [daily challenges website](https://jones58.github.io/daily-challenges/)
+ - 15 May: 
+ - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
 - [[HTML notes]]
 - [[CSS notes]]
 - [[Javascript notes]]
-- [[The DOM]] 
+- [[The DOM notes]] 
 - [[git and command line notes]]
 - [[Notes from Space 4 Meetups]]
 - [[VS Code shortcuts]]
