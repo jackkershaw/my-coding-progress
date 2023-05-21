@@ -69,7 +69,11 @@
  - 12 May: 1 hour learning about DOM and editing date on site
  - 13 May: 1 hour learning with FreeCodeCamp Javascript basics course and Codewars and reading up on various bits and pieces to do with Javascript
  - 14 May: 1 hour on 15 Javascript challenges, then 0.5 hour on Codewars, then 2 hour on [daily challenges website](https://jones58.github.io/daily-challenges/)
- - 15 May: 
+ - 16 May: 2 hours on Javascript challenges on codewars
+ - 17 May: 2 hours on Codewars
+ - 20 May: 1 hour on Codewars
+ - 21 May: 1.25 hours on daily challenges site, 0.25 hours on DOM manipulation notes and 0.5 hours on javascript freecodecamp, then 1 hour on Codewars. Need to focus on one thing next time but was tired this time too. 
+ - 22 May: 
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
