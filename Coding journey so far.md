@@ -72,8 +72,11 @@
  - 16 May: 2 hours on Javascript challenges on codewars
  - 17 May: 2 hours on Codewars
  - 20 May: 1 hour on Codewars
- - 21 May: 1.25 hours on daily challenges site, 0.25 hours on DOM manipulation notes and 0.5 hours on javascript freecodecamp, then 1 hour on Codewars. Need to focus on one thing next time but was tired this time too. 
- - 22 May: 
+ - 21 May: 1.25 hours on daily challenges site, 0.25 hours on DOM manipulation notes and 0.5 hours on javascript freecodecamp, then 1 hour on Codewars. Need to focus on one thing in future but was tired this time too. 
+ - 22 May: 1 hour on codewars
+ - 24 May: 0.5 hours on codewars and FAC lunch and learn
+ - 25 May: 1 hour on codewars, reached 6 kyu :) 
+ - 26 May: 
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
@@ -84,6 +87,9 @@ See notes so far:
 - [[git and command line notes]]
 - [[Notes from Space 4 Meetups]]
 - [[VS Code shortcuts]]
+- [[Markdown notes]]
+- [[Accessibility Notes]]
+
 
 
 
