@@ -76,7 +76,7 @@
  - 22 May: 1 hour on codewars
  - 24 May: 0.5 hours on codewars and FAC lunch and learn
  - 25 May: 1 hour on codewars, reached 6 kyu :) 
- - 26 May: 
+ - 26 May: 1.5 hour on codewars, 0.5 hours on planning
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
