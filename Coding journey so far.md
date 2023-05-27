@@ -77,7 +77,7 @@
  - 24 May: 0.5 hours on codewars and FAC lunch and learn
  - 25 May: 1 hour on codewars, reached 6 kyu :) 
  - 26 May: 1.5 hour on codewars, 0.25 hours trying to make github repositories smaller. 3 hours planning website for application.
- -  27 May: 
+ -  27 May: 0.5 hours codewars
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
