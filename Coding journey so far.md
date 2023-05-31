@@ -80,6 +80,8 @@
  -  27 May: 0.5 hours on codewars, 3 hour on working on website for application. 
  - 28 May: 2.5 hours on codewars 
  - 29 May: 2 hours on codewars, got to 5 kyu :)
+ - 31 May: 2 hours on FreeCodeCamp Javascript
+ - 1 June: 
 
  - Next: See [Todoist](https://todoist.com/app/)
  
