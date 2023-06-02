@@ -81,8 +81,8 @@
  - 28 May: 2.5 hours on codewars 
  - 29 May: 2 hours on codewars, got to 5 kyu :)
  - 31 May: 2 hours on FreeCodeCamp Javascript
- - 1 June: 
-
+ - 1 June: 0.25 hours codewars warmup, 2 hours on FreeCodeCamp Javascript
+ - 2 June: Going through new application requirements for FAC, then debugging part of FreeCodeCamp Javascript course
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
