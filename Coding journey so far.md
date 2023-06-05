@@ -85,8 +85,8 @@
  - 2 June: Going through new application requirements for FAC, then debugging part of FreeCodeCamp Javascript course for 1 hour
  - 3 June: 1.5 hours on basic Data structures bit of FreeCodeCamp Javascript course
  - 4 June: 1.5 hours on Basic algorithm scripting bit of FreeCodeCamp javascript course 
- - Next: Finish Basic algorithm scripting bit of FreeCodeCamp javascript course
- - Then: Website
+ - 5 June: 1 hour finishing Basic algorithm scripting bit of FreeCodeCamp javascript course
+ - Next: Website
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
