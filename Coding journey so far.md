@@ -86,7 +86,7 @@
  - 3 June: 1.5 hours on basic Data structures bit of FreeCodeCamp Javascript course
  - 4 June: 1.5 hours on Basic algorithm scripting bit of FreeCodeCamp javascript course 
  - 5 June: 1 hour finishing Basic algorithm scripting bit of FreeCodeCamp javascript course, and 1.5 hours editing website.
- - 6 June: 2 hours working on application website. 
+ - 6 June: 2.5 hours working on application website. 
  - Next: Keep working on website
  - After that: See [Todoist](https://todoist.com/app/)
  
