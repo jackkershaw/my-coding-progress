@@ -88,8 +88,8 @@
  - 5 June: 1 hour finishing Basic algorithm scripting bit of FreeCodeCamp javascript course, and 1.5 hours editing website.
  - 6 June: 2.5 hours working on application website and 1.5 hours on Codewars pair programming with Chris and Finton at FAC meetup. Mostly working on decode the woofs. 
  - 7 June: 1.5 hour learning regex with FreeCodeCamp
- - 11 June: 1 hour learning regex with FreeCodeCamp
-  - Next: finish regex https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers 
+ - 11 June: 2 hour learning regex with FreeCodeCamp and Youtube
+  - Next: Finish decoding the woofs
  - Keep working on website
  - After that: See [Todoist](https://todoist.com/app/)
  
