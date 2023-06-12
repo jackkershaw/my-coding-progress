@@ -89,8 +89,8 @@
  - 6 June: 2.5 hours working on application website and 1.5 hours on Codewars pair programming with Chris and Finton at FAC meetup. Mostly working on decode the woofs. 
  - 7 June: 1.5 hour learning regex with FreeCodeCamp
  - 11 June: 2 hour learning regex with FreeCodeCamp and Youtube
- - 12 June: 1 hour finishing decoding the woofs on Codewars and sharing solution on FAC Discord. 0.5 hours on codewars challenges. 
- - 13 June
+ - 12 June: 1 hour finishing decoding the woofs on Codewars and sharing solution on FAC Discord. 0.5 hours on codewars challenges. 0.25 hours talking to people on FAC Discord. 
+ - 13 June: 
  - Keep working on website
  - After that: See [Todoist](https://todoist.com/app/)
  
