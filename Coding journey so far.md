@@ -90,7 +90,8 @@
  - 7 June: 1.5 hour learning regex with FreeCodeCamp
  - 11 June: 2 hour learning regex with FreeCodeCamp and Youtube
  - 12 June: 1 hour finishing decoding the woofs on Codewars and sharing solution on FAC Discord. 0.5 hours on codewars challenges. 0.25 hours talking to people on FAC Discord. 
- - 13 June: 
+ - 13 June: 0.5 hours codewars, 1 hour FreeCodeCamp Javascript, 1 hour working on website. 
+ - 14 June: 
  - Keep working on website
  - After that: See [Todoist](https://todoist.com/app/)
  
