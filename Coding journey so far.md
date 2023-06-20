@@ -94,7 +94,7 @@
  - 15 June: 0.5 hours codewars, 0.75 hours on website
  - 18 June: 3 hours website
  - 19 June: 0.75 hours on website
- - 20 June: 3.5 hours on website
+ - 20 June: 3.5 hours on website, then 1.5 hours on website at FAC meetup. 
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
