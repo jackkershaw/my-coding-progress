@@ -95,6 +95,9 @@
  - 18 June: 3 hours website
  - 19 June: 0.75 hours on website
  - 20 June: 3.5 hours on website, then 1.5 hours on website at FAC meetup. 
+ - 21 June: 2 hours on website 
+ - 22 June: 2 hours on game 
+ - 23 June: 2 hours on game
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
