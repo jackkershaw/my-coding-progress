@@ -98,7 +98,9 @@
  - 21 June: 2 hours on website 
  - 22 June: 2 hours on game 
  - 23 June: 3 hours on game
- - 24 June: 1 hour on game
+ - 24 June: 2 hours on game
+ - 25 June: 1.5 hours on game
+ - 26 June: 1 hour on game 
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
