@@ -101,7 +101,9 @@
  - 24 June: 2 hours on game
  - 25 June: 1.5 hours on game
  - 26 June: 1.5 hour on game 
- - 27 June: 1 hour on game  + 1.5 hour on game and other projects at FAC meetup, talking about projects with Mohamed and others, show and tell. Really ood to show progress of what i've done and get feedback from users, especially for the game. 
+ - 27 June: 1 hour on game  + 1.5 hour on game and other projects at FAC meetup, talking about projects with Mohamed and others, show and tell. Really good to show progress of what i've done and get feedback from users, especially for the game. 
+ - 29 June: 2 hours on website. 
+ - 30 June: 1 hour on website. 
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
