@@ -110,7 +110,7 @@
 - 6 July: 0.5 hour on game, 1.5 hour on FAC countdown timer. 
 - 7July:  1.5 hours on game. 
 - 8 July: 2 hour on game. 
-- 9 July: 0.5 hours planning week of coding and things to do before deadline and after it, and tidying up github profile.  
+- 9 July: 1 hour planning week of coding and things to do before deadline and after it, and tidying up github profile.  0.5 hours on website
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
