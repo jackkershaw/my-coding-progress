@@ -106,7 +106,11 @@
  - 27 June: 1 hour on game  + 1.5 hour on game and other projects at FAC meetup, talking about projects with Mohamed and others, show and tell. Really good to show progress of what i've done and get feedback from users, especially for the game. 
  - 29 June: 2 hours on website. 
  - 30 June: 1 hour on website. 
- - 3 July: 1 hour on website. 
+ - 3 July: 1 hour on website.
+- 6 July: 0.5 hour on game, 1.5 hour on FAC countdown timer. 
+- 7July:  1.5 hours on game. 
+- 8 July: 2 hour on game. 
+- 9 July: 0.5 hours planning week of coding and things to do before deadline and after it, and tidying up github profile.  
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
