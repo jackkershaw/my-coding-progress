@@ -112,7 +112,12 @@
 - 8 July: 2 hour on game. 
 - 9 July: 1 hour planning week of coding and things to do before deadline and after it, and tidying up github profile.  0.5 hours on website
 - 10 July: 4.5 hours on game
-- 11 July: 
+- 11 July: 1.5 hours on game at FAC meetup 
+- 12 July: 2.5 hours on game
+- 13 July: 2 hours on game
+- 14 July: 2 hour on game and 2 hour on website
+- 15 July: 2 hour on website game and portfolio site
+- 16 July: Deadline day, midnight
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
