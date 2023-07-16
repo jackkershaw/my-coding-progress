@@ -117,7 +117,7 @@
 - 13 July: 2 hours on game
 - 14 July: 2 hour on game and 2 hour on website
 - 15 July: 4 hour on website game and portfolio site
-- 16 July: 1 hour on editing readmes
+- 16 July: 2 hour on editing readmes, submitting application
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
