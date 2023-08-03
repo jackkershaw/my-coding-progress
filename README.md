@@ -118,6 +118,9 @@
 - 14 July: 2 hour on game and 2 hour on website
 - 15 July: 4 hour on website game and portfolio site
 - 16 July: 2 hour on editing readmes, submitting application
+- 17 July: 1 hour learning on FreeCodeCamp - functional programming
+- 3 August: Looking at coding bootcamps and making a plan in Todoist. 
+- 
  - After that: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
