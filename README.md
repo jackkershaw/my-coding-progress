@@ -1,7 +1,7 @@
-# My-Coding-Progress
+# My Coding Progress
+## 14th October 2022 - Present 
 
-
-- 14th October: done 14 October :) [Setting up a web page](https://oliverjam.es/blog/complete-guide-to-making-web-pages/)
+- 14th October: done [Setting up a web page](https://oliverjam.es/blog/complete-guide-to-making-web-pages/)
 - 17th October: [MDN: Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - done installing basic software and set up local testing server, the basic one at least. 
 - Next is just a case of reading through html basics bit, onwards. 
@@ -120,8 +120,9 @@
 - 16 July: 2 hour on editing readmes, submitting application
 - 17 July: 1 hour learning on FreeCodeCamp - functional programming
 - 3 August: Looking at coding bootcamps and making a plan in Todoist. 
-- 
- - After that: See [Todoist](https://todoist.com/app/)
+- 14 August: Learning Python, 1 hour 
+- 15 August: Keep going from 018
+ - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
 - [[HTML notes]]
