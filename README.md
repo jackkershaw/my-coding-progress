@@ -121,7 +121,9 @@
 - 17 July: 1 hour learning on FreeCodeCamp - functional programming
 - 3 August: Looking at coding bootcamps and making a plan in Todoist. 
 - 14 August: Learning Python, 1 hour 
-- 15 August: Keep going from 018
+- 15 August: Looking into coding bootcamps, doing prerequisites. 
+- 17 August: 2 hours on learning Python 
+- 18 August:
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
