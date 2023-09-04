@@ -123,7 +123,11 @@
 - 14 August: Learning Python, 1 hour 
 - 15 August: Looking into coding bootcamps, doing prerequisites. 
 - 17 August: 2 hours on learning Python 
-- 18 August:
+- 18 August: 1.5 hours on learning Python
+- 19 August: 0.5 hours on Python Codewars
+- 20 August: 1.5 hours learning about the web on OpenClassrooms and 1 hour on Python Codewars
+- 21 August: 1.5 hour on Python Codewars
+- 22 August: 
  - Next: See [Todoist](https://todoist.com/app/)
  
 See notes so far:
