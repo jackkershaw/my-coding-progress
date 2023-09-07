@@ -1,5 +1,5 @@
 # My Coding Progress
-## 14th October 2022 - Present 
+## Timeline 14th October 2022 - Present 
 
 - 14th October: done [Setting up a web page](https://oliverjam.es/blog/complete-guide-to-making-web-pages/)
 - 17th October: [MDN: Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -127,20 +127,14 @@
 - 19 August: 0.5 hours on Python Codewars
 - 20 August: 1.5 hours learning about the web on OpenClassrooms and 1 hour on Python Codewars
 - 21 August: 1.5 hour on Python Codewars
-- 22 August: 
- - Next: See [Todoist](https://todoist.com/app/)
- 
-See notes so far:
-- [[HTML notes]]
-- [[CSS notes]]
-- [[Javascript notes]]
-- [[The DOM notes]] 
-- [[git and command line notes]]
-- [[Notes from Space 4 Meetups]]
-- [[VS Code shortcuts]]
-- [[Markdown notes]]
-- [[Accessibility Notes]]
+- 4 September: 4 hour on Javascript challenges
+- 7 September: 3.5 hour on portfolio
+- 8 September: 
 
+## Codewars Profile
 
+- 
 
+## Free Code Camp Profile
 
+- 
