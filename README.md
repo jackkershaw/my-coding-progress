@@ -128,13 +128,9 @@
 - 20 August: 1.5 hours learning about the web on OpenClassrooms and 1 hour on Python Codewars
 - 21 August: 1.5 hour on Python Codewars
 - 4 September: 4 hour on Javascript challenges
-- 7 September: 3.5 hour on portfolio
+- 7 September: 4.5 hour on portfolio
 - 8 September: 
-
 ## Codewars Profile
-
-- 
-
-## Free Code Camp Profile
-
-- 
+- I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
+## freeCodeCamp Profile
+-  I owe a lot of my early learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here]( https://www.freecodecamp.org/jones58). 
