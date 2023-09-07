@@ -128,7 +128,7 @@
 - 20 August: 1.5 hours learning about the web on OpenClassrooms and 1 hour on Python Codewars
 - 21 August: 1.5 hour on Python Codewars
 - 4 September: 4 hour on Javascript challenges
-- 7 September: 4.5 hour on portfolio
+- 7 September: 5.5 hour on portfolio
 - 8 September: 
 ## Codewars Profile
 - I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
