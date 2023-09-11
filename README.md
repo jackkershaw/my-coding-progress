@@ -130,7 +130,8 @@
 - 4 September: 4 hour on Javascript challenges
 - 7 September: 5.5 hour on portfolio
 - 8 September: 0.5 hours on rss web design inspiration,  6 hours on freecodecamp Javascript course
-- 9 September: 
+- 11 September: 4.25 hours on freecodecamp javascript and bootstrap courses
+- 12 September: 
 ## Codewars Profile
 - I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
