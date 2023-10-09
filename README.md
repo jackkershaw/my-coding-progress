@@ -131,8 +131,10 @@
 - 7 September: 5.5 hour on portfolio
 - 8 September: 0.5 hours on rss web design inspiration,  6 hours on freecodecamp Javascript course
 - 11 September: 4.25 hours on freecodecamp javascript and bootstrap courses
-- 12 September: 
+- 12 September:  1.5 hour on Javascript algorithms
+- 9 October: 1 hour on Codewars, 
+- 10 October: 
 ## Codewars Profile
 - I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
--  I owe a lot of my early learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here]( https://www.freecodecamp.org/jones58). 
+-  I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here]( https://www.freecodecamp.org/jones58). 
