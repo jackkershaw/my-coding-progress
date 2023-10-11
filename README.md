@@ -132,8 +132,9 @@
 - 8 September: 0.5 hours on rss web design inspiration,  6 hours on freecodecamp Javascript course
 - 11 September: 4.25 hours on freecodecamp javascript and bootstrap courses
 - 12 September:  1.5 hour on Javascript algorithms
-- 9 October: 1 hour on Codewars, 
-- 10 October: 
+- 9 October: 1 hour on Codewars, 2 hour editing personal portfolio with form, 3 hours HTML lectures
+- 10 October:  3 hour working on portfolio animated text and other bits like footer, 3 hours lectures on HTML lists and tables 1 hour on homework assignment and typing up class notes 
+- 11 October: 1 hour working on LinkedIn, 0.5 hours typing up html table notes
 ## Codewars Profile
 - I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
