@@ -136,7 +136,13 @@
 - 10 October:  3 hour working on portfolio animated text and other bits like footer, 3 hours lectures on HTML lists and tables 1 hour on homework assignment and typing up class notes 
 - 11 October: 1 hour working on LinkedIn, 0.5 hours typing up html table notes and learning some php. 3 hours HTML lessons on class, id and forms 
 - 12 October: 3 hour HTML lessons on embedding with iframes, audio, video and using tables, forms and datalists
-- 13 October:  1 hour trying to use php instead of html
+- 13 October:  1 hour trying to use php instead of html, 0.5 hours on hobby page editing js for clock updating, 3 hours HTML lectures on buttons, other tags and Github. Helping other learners with how to use terminal and install Git. 
+- 16 October: 
+- 17 October: 
+- 18 October: 
+- 19 October: 
+- 20 October: 
+- 23 October: 
 ## Codewars Profile
 - I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
