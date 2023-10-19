@@ -137,13 +137,13 @@
 - 11 October: 1 hour working on LinkedIn, 0.5 hours typing up html table notes and learning some php. 3 hours HTML lessons on class, id and forms 
 - 12 October: 3 hour HTML lessons on embedding with iframes, audio, video and using tables, forms and datalists
 - 13 October:  1 hour trying to use php instead of html, 0.5 hours on hobby page editing js for clock updating, 3 hours HTML lectures on buttons, other tags and Github. Helping other learners with how to use terminal and install Git. 
-- 16 October: 
-- 17 October: 
-- 18 October: 
-- 19 October: 
+- 16 October: 3 hours CSS lectures, 2.5 hour on freecodecamp javascript challenges
+- 17 October:  3 hour CSS lectures on borders and backgrounds, 0.5 hours on homework assignments, 1.5 on freecodecamp javascript challenges
+- 18 October: 3 hour CSS lectures on margin, padding, display, visibility, float, clear, 1 hour on CSS homework, 2.5 hour on freecodecamp javascript challenges
+- 19 October: 3 hours CSS lectures on position, 
 - 20 October: 
 - 23 October: 
 ## Codewars Profile
-- I love using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
+- I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
 -  I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here]( https://www.freecodecamp.org/jones58). 
