@@ -140,9 +140,13 @@
 - 16 October: 3 hours CSS lectures, 2.5 hour on freecodecamp javascript challenges
 - 17 October:  3 hour CSS lectures on borders and backgrounds, 0.5 hours on homework assignments, 1.5 on freecodecamp javascript challenges
 - 18 October: 3 hour CSS lectures on margin, padding, display, visibility, float, clear, 1 hour on CSS homework, 2.5 hour on freecodecamp javascript challenges
-- 19 October: 3 hours CSS lectures on position, 
-- 20 October: 
-- 23 October: 
+- 19 October: 3 hours CSS lectures on position, z-index, navigation bars, 3 hours looking at sites i like and researching through are.na, 1.5 hour on class assignment, 0.75 hours on freecodecamp javascript challenges, completed freecodecamp javascript course.
+- 20 October:  3 hours CSS lectures on media queries and selectors. 
+- 24 October: 2 hours catching up lectures from yesterday on CSS flexbox, 3 hours CSS lectures on CSS units and grid
+- 25 October:  3 hours lectures on CSS animation, transition and transform. 
+- 26 October: 
+- 27 October: 
+- 30 October: 
 ## Codewars Profile
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
