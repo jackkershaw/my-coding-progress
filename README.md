@@ -145,9 +145,13 @@
 - 24 October: 3 hours catching up lectures from yesterday on CSS flexbox, 3 hours CSS lectures on CSS units and grid. 
 - 25 October:  1 hour lecture on CSS skills 3 hours lectures on CSS animation, transition and transform. 
 - 26 October: 4.5 hours building HTML CSS site on Cooper Black as Just IT Project
-- 27 October: 
-- 30 October: 
+- 27 October: 3 hours on cooper black site 
+- 30 October: 0.5 hours on linkedin, 0.5 hours revising flexbox, 0.5 hours on css grid, 1.5 hours learning bootstrap, 1 hour learning jQuery, 1 hour learning sass
+-  31 October: 
+- 1 November: 
 ## Codewars Profile
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
 -  I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here]( https://www.freecodecamp.org/jones58). 
+## Just IT Bootcamp
+- 
