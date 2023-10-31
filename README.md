@@ -147,7 +147,7 @@
 - 26 October: 4.5 hours building HTML CSS site on Cooper Black as Just IT Project
 - 27 October: 3 hours on cooper black site 
 - 30 October: 0.5 hours on linkedin, 0.5 hours revising flexbox, 0.5 hours on css grid, 1.5 hours learning bootstrap, 1 hour learning jQuery, 1 hour learning sass
--  31 October: 
+-  31 October: 1 hour learning sass, 5.5 hour learning React. 
 - 1 November: 
 ## Codewars Profile
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
