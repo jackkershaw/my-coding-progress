@@ -148,8 +148,12 @@
 - 27 October: 3 hours on cooper black site
 - 30 October: 0.5 hours on linkedin, 0.5 hours revising flexbox, 0.5 hours on css grid, 1.5 hours learning bootstrap, 1 hour learning jQuery, 1 hour learning sass
 -  31 October: 1 hour learning sass, 5.5 hour learning React.
-- 1 November: 1 hour learning about HTTP, servers and domains, 2.5 hours learning about Git,
-- 2 November:
+- 1 November: 1 hour learning about HTTP, servers and domains, 3.5 hours learning about Git.
+- 2 November: Look at frontend developer roadmap for next thing to do.``
+
+
+
+
 ## Codewars Profile
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here]( https://www.codewars.com/users/jones58)
 ## freeCodeCamp Profile
