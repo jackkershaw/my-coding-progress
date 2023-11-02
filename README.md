@@ -148,9 +148,8 @@
 - 27 October: 3 hours on cooper black site
 - 30 October: 0.5 hours on linkedin, 0.5 hours revising flexbox, 0.5 hours on css grid, 1.5 hours learning bootstrap, 1 hour learning jQuery, 1 hour learning sass
 -  31 October: 1 hour learning sass, 5.5 hour learning React.
-- 1 November: 1 hour learning about HTTP, servers and domains, 4 hours learning about Git.
-- 2 November: Quickly finish: https://fireship.io/courses/git/advanced-squash/ then look at frontend developer roadmap for next thing to do.
-
+- 1 November: 1 hour learning about HTTP, servers and domains, 4 hours learning about git.
+- 2 November: 1 hour interview session, 0.5 learning about git. 2.5 hours learning about npm. 1 hour learning about React
 - 3 November:
 
 
