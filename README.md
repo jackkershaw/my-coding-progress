@@ -150,17 +150,19 @@
 -  31 October: 1 hour learning sass, 5.5 hour learning React.
 - 1 November: 1 hour learning about HTTP, servers and domains, 4 hours learning about git.
 - 2 November: 1 hour interview session, 0.5 learning about git. 2.5 hours learning npm. 1 hour learning React.
+- 6 November: 3 hours Javascript intro lessons
 
-- Keep going with React course: https://fireship.io/courses/react/basics-conditional-rendering/
+
+- 7 November:
+Keep going with React course: https://fireship.io/courses/react/basics-conditional-rendering/
 
 and read these:
-
 https://react.dev/reference/react/Component
 https://react.dev/learn/your-first-component
 https://react.dev/learn/passing-props-to-a-component
 https://www.robinwieruch.de/react-function-component/
 
-
+- 8 November:
 
 
 
