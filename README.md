@@ -152,17 +152,15 @@
 - 1 November: 1 hour learning about HTTP, servers and domains, 4 hours learning about git.
 - 2 November: 1 hour interview session, 0.5 learning about git. 2.5 hours learning npm. 1 hour learning React.
 - 6 November: 3 hours Javascript intro lessons
-- 7 November:
-  1.5 hour on learning React.
+- 7 November: 1.5 hour on learning React. 3 hour Javascript intro lesson.
 - 8 November:
+  REACT:
 
-REACT:
-
-- Keep going with React course: https://fireship.io/courses/react/basics-conditional-rendering/
+- Keep going with React course: https://fireship.io/courses/react/basics-loops/
 - Do freeCodeCamp as learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
 
-- 8 November:
+- 9 November:
 
 ## Codewars Profile
 
