@@ -153,7 +153,9 @@
 - 2 November: 1 hour interview session, 0.5 learning about git. 2.5 hours learning npm. 1 hour learning React.
 - 6 November: 3 hours Javascript intro lessons
 - 7 November: 1.5 hour on learning React. 3 hour Javascript intro lesson.
-- 8 November:
+- 8 November: 3 hour Javascript intro lessons
+- 9 November:
+
   REACT:
 
 - Keep going with React course: https://fireship.io/courses/react/basics-loops/
