@@ -155,22 +155,23 @@
 - 7 November: 1.5 hour on learning React. 3 hour Javascript intro lesson.
 - 8 November: 3 hour Javascript intro lessons
 - 9 November: 1 hour learning React, 3 hour Javascript intro lessons and 1 hour learning Javascript.
-
-- 10 November: 0.5 hour vs code tricks course
+- 10 November: 0.5 hour vs code tricks course, 3 hour Javascript intro lessons.
 
 - 13 November:
 
-Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/basics-explorer/
+### VS Code Tricks
 
-REACT:
+Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-hints/
+
+### React
 
 - Keep going with React course: https://fireship.io/courses/react/basics-state/
 - Do freeCodeCamp as learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
 
-- Fill in [Roadmap](https://roadmap.sh/javascript) as go through class.
+### Javascript
 
-- 9 November:
+- Fill in [Javascript Roadmap](https://roadmap.sh/javascript) as go through class.
 
 ## Codewars Profile
 
