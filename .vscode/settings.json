@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "Fira Code Retina",
+    "terminal.integrated.fontFamily": "Fira Code Retina",
+    "javascript-repl.explorer": false,
+    "javascript-repl.explorerFocus": false,
+    "javascript-repl.explorerReveal": false,
+    "javascript-repl.coverage": false,
+    "javascript-repl.coverageTimes": false,
+    "javascript-repl.gutters": {
+        "covered": "#2ecc40",
+        "uncovered": "#dddddd",
+        "error": "#ff4136",
+        "partially": "#ffb90f"
+    },
+    "dashboard.displayProjectPath": false,
+    "dashboard.projectTileWidth": 700
+}

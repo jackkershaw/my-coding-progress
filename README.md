@@ -154,13 +154,21 @@
 - 6 November: 3 hours Javascript intro lessons
 - 7 November: 1.5 hour on learning React. 3 hour Javascript intro lesson.
 - 8 November: 3 hour Javascript intro lessons
-- 9 November:
+- 9 November: 1 hour learning React, 3 hour Javascript intro lessons and 1 hour learning Javascript.
 
-  REACT:
+- 10 November: 0.5 hour vs code tricks course
 
-- Keep going with React course: https://fireship.io/courses/react/basics-loops/
+- 13 November:
+
+Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/basics-explorer/
+
+REACT:
+
+- Keep going with React course: https://fireship.io/courses/react/basics-state/
 - Do freeCodeCamp as learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
+
+- Fill in [Roadmap](https://roadmap.sh/javascript) as go through class.
 
 - 9 November:
 
@@ -171,7 +179,3 @@
 ## freeCodeCamp Profile
 
 - I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
-
-## Just IT Bootcamp
-
--
