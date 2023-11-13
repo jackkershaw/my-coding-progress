@@ -156,12 +156,12 @@
 - 8 November: 3 hour Javascript intro lessons
 - 9 November: 1 hour learning React, 3 hour Javascript intro lessons and 1 hour learning Javascript.
 - 10 November: 0.5 hour vs code tricks course, 3 hour Javascript intro lessons.
-
-- 13 November:
+- 13 November: 3 hour on Javascript: DOM
+- 14 November:
 
 ### VS Code Tricks
 
-Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-hints/
+Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-auto-dir/
 
 ### React
 
