@@ -157,7 +157,8 @@
 - 9 November: 1 hour learning React, 3 hour Javascript intro lessons and 1 hour learning Javascript.
 - 10 November: 0.5 hour vs code tricks course, 3 hour Javascript intro lessons.
 - 13 November: 3 hour on Javascript: DOM
-- 14 November:
+- 14 November: 3 hour on Javascript: DOM
+- 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript: DOM
 
 ### VS Code Tricks
 
