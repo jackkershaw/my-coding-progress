@@ -158,22 +158,8 @@
 - 10 November: 0.5 hour vs code tricks course, 3 hour Javascript intro lessons.
 - 13 November: 3 hour on Javascript: DOM
 - 14 November: 3 hour on Javascript: DOM
-- 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript.
+- 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript, 0.5 hour javascript exercises.
 - 16 November:
-
-### VS Code Tricks
-
-Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-auto-dir/
-
-### React
-
-- Keep going with React course: https://fireship.io/courses/react/basics-state/
-- Do freeCodeCamp as learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
-- Fill in [Roadmap](https://roadmap.sh/react) as go along
-
-### Javascript
-
-- Fill in [Javascript Roadmap](https://roadmap.sh/javascript) as go through class.
 
 ## Codewars Profile
 
@@ -182,3 +168,24 @@ Keep going with VS Code tricks course from here: https://fireship.io/courses/vsc
 ## freeCodeCamp Profile
 
 - I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
+
+# To do:
+
+### Learn React
+
+- Keep going with React course: https://fireship.io/courses/react/basics-state/
+- Do freeCodeCamp alongside learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
+- Fill in [Roadmap](https://roadmap.sh/react) as go along
+- do these questions to test knowledge: https://roadmap.sh/questions/react
+
+### Learn Javascript
+
+- In class exercises and notes
+- Fill in and consult [Javascript Roadmap](https://roadmap.sh/javascript) as go through
+- do these questions to test knowledge: https://roadmap.sh/questions/javascript
+
+### Improve VS Code Knowledge
+
+- Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-auto-dir/
+
+### Learn Tailwind CSS
