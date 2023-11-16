@@ -159,7 +159,8 @@
 - 13 November: 3 hour on Javascript: DOM
 - 14 November: 3 hour on Javascript: DOM
 - 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript, 0.5 hour javascript exercises.
-- 16 November:
+- 16 November: 1 hour learning React, 0.5 hour on apprenticeships, 2 hour learning React, 3 hour Javascript lessons
+  -17 November:
 
 ## Codewars Profile
 
@@ -173,11 +174,15 @@
 
 ### Learn React
 
-- Keep going with React course: https://fireship.io/courses/react/basics-state/
-- Do freeCodeCamp alongside learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
+- Do freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
   - to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
 - do these questions to test knowledge: https://roadmap.sh/questions/react
+- Keep going with React course: https://fireship.io/courses/react/1-react-search/ (from 2.20)
+- see react courses folder sonny sanghan
+- possibly this one: https://www.youtube.com/watch?v=bMknfKXIFA8
+
+Code academy react course could be good: https://www.codecademy.com/enrolled/courses/react-101
 
 ### Learn Javascript
 
@@ -190,3 +195,9 @@
 - Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-auto-dir/
 
 ### Learn Tailwind CSS
+
+- https://www.youtube.com/watch?v=lCxcTsOHrjo
+- https://www.youtube.com/watch?v=UBOj6rqRUME
+- https://tailwindcss.com/docs/installation
+
+### Learn Typescript
