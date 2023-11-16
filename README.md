@@ -175,6 +175,7 @@
 
 - Keep going with React course: https://fireship.io/courses/react/basics-state/
 - Do freeCodeCamp alongside learning: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
+  - to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
 - do these questions to test knowledge: https://roadmap.sh/questions/react
 
