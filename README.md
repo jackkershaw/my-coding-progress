@@ -160,20 +160,14 @@
 - 14 November: 3 hour on Javascript: DOM
 - 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript, 0.5 hour javascript exercises.
 - 16 November: 1 hour learning React, 0.5 hour on apprenticeships, 2 hour learning React, 3 hour Javascript lessons
-  -17 November:
-
-## Codewars Profile
-
-- I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here](https://www.codewars.com/users/jones58)
-
-## freeCodeCamp Profile
-
-- I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
+  -17 November: 1 hour learning React, 3 hour Javascript lessons
+  - 20 November:
 
 # To do:
 
 ### Learn React
 
+- Do Code academy React course to get fundamentals: https://www.codecademy.com/enrolled/courses/react-101
 - Do freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
   - to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
@@ -181,8 +175,6 @@
 - Keep going with React course: https://fireship.io/courses/react/1-react-search/ (from 2.20)
 - see react courses folder sonny sanghan
 - possibly this one: https://www.youtube.com/watch?v=bMknfKXIFA8
-
-Code academy react course could be good: https://www.codecademy.com/enrolled/courses/react-101
 
 ### Learn Javascript
 
@@ -201,3 +193,13 @@ Code academy react course could be good: https://www.codecademy.com/enrolled/cou
 - https://tailwindcss.com/docs/installation
 
 ### Learn Typescript
+
+////
+
+## Codewars Profile
+
+- I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here](https://www.codewars.com/users/jones58)
+
+## freeCodeCamp Profile
+
+- I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
