@@ -160,8 +160,8 @@
 - 14 November: 3 hour on Javascript: DOM
 - 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript, 0.5 hour javascript exercises.
 - 16 November: 1 hour learning React, 0.5 hour on apprenticeships, 2 hour learning React, 3 hour Javascript lessons
-  -17 November: 1 hour learning React, 3 hour Javascript lessons
-  - 20 November:
+- 17 November: 1 hour learning React, 3 hour Javascript lessons, 1 hour learning React
+- 20 November:
 
 # To do:
 
