@@ -161,7 +161,7 @@
 - 15 November: 1 hour on white bikes plan idea, 3 hour on Javascript, 0.5 hour javascript exercises.
 - 16 November: 1 hour learning React, 0.5 hour on apprenticeships, 2 hour learning React, 3 hour Javascript lessons
 - 17 November: 1 hour learning React, 3 hour Javascript lessons, 1 hour learning React
-- 18 November: 2 hour working on daily challenges site.
+- 18 November: 3.5 hour working on daily challenges site.
 - 20 November:
 
 # To do:
