@@ -164,7 +164,9 @@
 - 18 November: 3.5 hour working on daily challenges site.
 - 20 November: 3 hours on javascript project - Brutalist map.
 - 21 November: 4 hours on javascript project - Brutalist map.
-- 22 November:
+- 22 November: 3 hours on javascript project - Brutalist map.
+- 23 November: 2.25 hours on javascript project - Brutalist map.
+- 27 November
 
 # To do:
 
