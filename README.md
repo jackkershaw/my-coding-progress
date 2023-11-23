@@ -165,8 +165,8 @@
 - 20 November: 3 hours on javascript project - Brutalist map.
 - 21 November: 4 hours on javascript project - Brutalist map.
 - 22 November: 3 hours on javascript project - Brutalist map.
-- 23 November: 2.25 hours on javascript project - Brutalist map.
-- 27 November
+- 23 November: 6 hours on javascript project - Brutalist map.
+- 27 November:
 
 # To do:
 
