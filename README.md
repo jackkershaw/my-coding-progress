@@ -162,11 +162,11 @@
 - 16 November: 1 hour learning React, 0.5 hour on apprenticeships, 2 hour learning React, 3 hour Javascript lessons
 - 17 November: 1 hour learning React, 3 hour Javascript lessons, 1 hour learning React
 - 18 November: 3.5 hour working on daily challenges site.
-- 20 November: 3 hours on javascript project - Brutalist map.
-- 21 November: 4 hours on javascript project - Brutalist map.
-- 22 November: 3 hours on javascript project - Brutalist map.
-- 23 November: 6 hours on javascript project - Brutalist map.
-- 27 November:
+- 20 November: 3 hours on Javascript project - Brutalist map.
+- 21 November: 4 hours on Javascript project - Brutalist map.
+- 22 November: 3 hours on Javascript project - Brutalist map.
+- 23 November: 6 hours on Javascript project - Brutalist map.
+- 27 November: Install MySQL, 3.5 hours on Javascript project - Brutalist map.
 
 # To do:
 
