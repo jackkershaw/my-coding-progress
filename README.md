@@ -166,7 +166,8 @@
 - 21 November: 4 hours on Javascript project - Brutalist map.
 - 22 November: 3 hours on Javascript project - Brutalist map.
 - 23 November: 6 hours on Javascript project - Brutalist map.
-- 27 November: Install MySQL, 3.5 hours on Javascript project - Brutalist map.
+- 24 November: Install MySQL, 3.5 hours on Javascript project - Brutalist map.
+- 27 November: 2 hours on LinkedIn, 3.5 hours on MySQL.
 
 # To do:
 
