@@ -2,7 +2,7 @@
 [build]
   command = "eleventy && mkdir -p public/css && cp -R styles/* public/css"
   functions = "netlify/functions"
-  publish = "public/progress"
+  publish = "public"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
