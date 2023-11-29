@@ -12,7 +12,7 @@ layout: "layout.html"
 - Next is just a case of reading through html basics bit, onwards.
 - 22nd October continuing with it
 - 24th October – working on CSS Basics and Javascript basics 27th October did JS bit and publishing on the web.
-- 29th October published via github J jones58.github.io J Finished getting started with the web J
+- 29th October published via github jones58.github.io Finished getting started with the web.
 - 30th October, working on [freeCodeCamp: Responsive web design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - 1 November – continuing with the cat photo app, got up to section 52, keep going with it [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - 14 November – continuing with above, done Cat Photo App keep going with Café menu, continue from step 5 [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
@@ -173,7 +173,7 @@ layout: "layout.html"
 - 24 November: Install MySQL, 3.5 hours on Javascript project - Brutalist map.
 - 27 November: 2 hours on LinkedIn, 3.5 hours on MySQL.
 - 28 November: 3.5 hour on MySQL
-- 29 November:
+- 29 November: 2 hour setting up Netlify with this repository to host a netlify site at (progress.jackkershaw.net)[https://progress.jackkershaw.net]
 
 ## To do:
 
