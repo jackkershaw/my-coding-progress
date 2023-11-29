@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "eleventy && mkdir -p public/css && cp -R styles/* public/css"
+  command = "eleventy --serve && mkdir -p public/css && cp -R styles/* public/css"
   functions = "netlify/functions"
   publish = "public"
 
