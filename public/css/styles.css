@@ -34,3 +34,11 @@ a:visited {
 ul li {
   margin-bottom: 10px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  background-color: #f2f2f2;
+}

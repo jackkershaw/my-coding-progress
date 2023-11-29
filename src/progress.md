@@ -173,7 +173,9 @@ layout: "layout.html"
 - 24 November: Install MySQL, 3.5 hours on Javascript project - Brutalist map.
 - 27 November: 2 hours on LinkedIn, 3.5 hours on MySQL.
 - 28 November: 3.5 hour on MySQL
-- 29 November: 2 hour setting up Netlify with this repository to host a netlify site at [progress.jackkershaw.net](https://progress.jackkershaw.net)
+- 29 November: 2 hour setting up eleventy with this repository to host a netlify site at [progress.jackkershaw.net](https://progress.jackkershaw.net), 3.5 hours learning MYSQL.
+- 30 November:
+- 31 November:
 
 ## To do:
 
