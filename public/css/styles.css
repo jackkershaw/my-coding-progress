@@ -30,3 +30,7 @@ a:visited {
   text-decoration: none;
   color: black;
 }
+
+ul li {
+  margin-bottom: 20px;
+}
