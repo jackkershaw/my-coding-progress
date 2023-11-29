@@ -2,7 +2,7 @@
 layout: "layout.html"
 ---
 
-# My Coding Progress 123
+# My Coding Progress
 
 ## Timeline 14th October 2022 - Present
 
