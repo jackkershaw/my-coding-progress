@@ -1,8 +1,9 @@
 # example netlify.toml
 [build]
-  command = "eleventy && mkdir -p public/css && cp -R styles/* public/css"
+  command = "eleventy && mkdir -p public/css && if [ -d styles ]; then cp -R styles/* public/css; fi"
   functions = "netlify/functions"
   publish = "public"
+
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
