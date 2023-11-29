@@ -5,4 +5,14 @@ module.exports = function (eleventyConfig) {
       output: "public",
     },
   };
+
+  eleventyConfig.setBrowserSyncConfig({
+    // Other configuration options...
+    serveStatic: [
+      {
+        route: "/index.html",
+        dir: "public/progress",
+      },
+    ],
+  });
 };
