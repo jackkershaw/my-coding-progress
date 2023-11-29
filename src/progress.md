@@ -1,3 +1,7 @@
+---
+layout: "layout.html"
+---
+
 # My Coding Progress
 
 ## Timeline 14th October 2022 - Present
@@ -168,8 +172,10 @@
 - 23 November: 6 hours on Javascript project - Brutalist map.
 - 24 November: Install MySQL, 3.5 hours on Javascript project - Brutalist map.
 - 27 November: 2 hours on LinkedIn, 3.5 hours on MySQL.
+- 28 November: 3.5 hour on MySQL
+- 29 November:
 
-# To do:
+## To do:
 
 ### Learn React
 

@@ -1,0 +1,39 @@
+Arguments: 
+  /Users/coding-2/.nvm/versions/node/v16.20.2/bin/node /Users/coding-2/.nvm/versions/node/v16.20.2/bin/yarn global bin
+
+PATH: 
+  /opt/homebrew/opt/ruby/bin:/Users/coding-2/.nvm/versions/node/v16.20.2/bin:/Users/coding-2/.pyenv/shims:/Users/coding-2/.pyenv/bin:/Users/coding-2/.volta/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/coding-2/.volta/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/usr/local/mysql/support-files:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/opt/homebrew/opt/ruby/bin:/Users/coding-2/.nvm/versions/node/v16.20.2/bin:/Users/coding-2/.pyenv/bin:/Users/coding-2/.volta/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/coding-2/.yarn/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.20.2
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/coding-2/Documents/My-Coding-Progress/package.json: Unexpected string in JSON at position 63
+      at JSON.parse (<anonymous>)
+      at /Users/coding-2/.nvm/versions/node/v16.20.2/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/coding-2/.nvm/versions/node/v16.20.2/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/coding-2/.nvm/versions/node/v16.20.2/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "devDependencies": {
+      "@11ty/eleventy": "^2.0.1"
+    }
+  }
+  
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy" },
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
