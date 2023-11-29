@@ -27,7 +27,7 @@ layout: "layout.html"
 - 19 january: continued from step 16 up to 59 of the nutrition label for learning typography. <https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-16>
 - 20 January: Finished the nutrition label, moved to Learning Accessibility by building a quiz.
 - 21st January: Working on accessibility quiz up to step 49.
-- 22nd January: continue accessibility quiz from step 50 here: <https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-50>. Finished accessibility quiz. **_Probably a few things will need to go over again from this, look through code tbh and look up on w3 if need help_**
+- 22nd January: continue accessibility quiz from step 50 here: <https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-50>. Finished accessibility quiz. Probably a few things will need to go over again from this, look through code tbh and look up on w3 if need help.
 - 23rd January: finished tribute page, moved to css pseudo selectors
 - 24th January: css pseudo selectors
 - 25th January: Looking into Git and watching videos.
