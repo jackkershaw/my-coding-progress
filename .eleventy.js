@@ -2,7 +2,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     serveStatic: [
       {
-        route: "/index.html",
+        route: "/",
         dir: "public/progress",
       },
     ],
