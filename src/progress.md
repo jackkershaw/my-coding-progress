@@ -174,21 +174,21 @@ layout: "layout.html"
 - 27 November: 2 hours on LinkedIn, 3.5 hours on MySQL.
 - 28 November: 3.5 hour on MySQL
 - 29 November: 2 hour setting up eleventy with this repository to host a netlify site at [progress.jackkershaw.net](https://progress.jackkershaw.net), 3.5 hours learning MYSQL.
-- 30 November:
+- 30 November: 1.5 hour learning React, 3.5 hours learning MYSQL.
 - 31 November:
 
 ## To do:
 
 ### Learn React
 
-- Do Code academy React course to get fundamentals: https://www.codecademy.com/enrolled/courses/react-101
 - Do freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
-  - to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
+  - NB to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
 - do these questions to test knowledge: https://roadmap.sh/questions/react
 - Keep going with React course: https://fireship.io/courses/react/1-react-search/ (from 2.20)
 - see react courses folder sonny sanghan
 - possibly this one: https://www.youtube.com/watch?v=bMknfKXIFA8
+- Create some projects with React involving API calls etc.
 
 ### Learn Javascript
 
