@@ -175,7 +175,8 @@ layout: "layout.html"
 - 28 November: 3.5 hour on MySQL
 - 29 November: 2 hour setting up eleventy with this repository to host a netlify site at [progress.jackkershaw.net](https://progress.jackkershaw.net), 3.5 hours learning MYSQL.
 - 30 November: 1.5 hour learning React, 3.5 hours learning MYSQL.
-- 1 December: 1 hour on NPM (backend course on FreeCodeCamp), 3.5 hours learning MYSQL, 1 hour on NPM (backend course on FreeCodeCamp).
+- 1 December: 1 hour on NPM (backend course on FreeCodeCamp), 4.5 hours learning MYSQL, 1 hour on NPM (backend course on FreeCodeCamp).
+- 2 December:
 
 ## To do:
 
