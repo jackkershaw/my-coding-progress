@@ -177,7 +177,10 @@ layout: "layout.html"
 - 30 November: 1.5 hour learning React, 3.5 hours learning MYSQL.
 - 1 December: 1 hour on NPM (backend course on FreeCodeCamp), 4.5 hours learning MYSQL, 1 hour on NPM (backend course on FreeCodeCamp).
 - 4 December: 3.5 hours learning MySQL and 1 hour homework on MySQL project.
-- 5 December:
+- 5 December: 1 hour homework on MYSQL project and 3 hour on brutalist map project.
+- 6 December: 1 hour on learning SQL.
+- 7 December: 5.5 hour on Brutalist map project.
+- 8 December:
 
 ## To do:
 
@@ -208,7 +211,9 @@ layout: "layout.html"
 - https://www.youtube.com/watch?v=UBOj6rqRUME
 - https://tailwindcss.com/docs/installation
 
-### Learn Typescript
+### Learn SQL
+
+- Finish learning, see [SQL Roadmap](https://roadmap.sh/sql) and folder and notes.
 
 ////
 
