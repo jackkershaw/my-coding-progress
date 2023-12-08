@@ -180,7 +180,7 @@ layout: "layout.html"
 - 5 December: 1 hour homework on MYSQL project and 3 hour on brutalist map project.
 - 6 December: 1 hour on learning SQL.
 - 7 December: 5.5 hour on Brutalist map project.
-- 8 December:
+- 8 December: 8 hour on Brutalist map project.
 
 ## To do:
 
