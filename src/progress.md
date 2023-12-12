@@ -181,6 +181,8 @@ layout: "layout.html"
 - 6 December: 1 hour on learning SQL.
 - 7 December: 5.5 hour on Brutalist map project.
 - 8 December: 8 hour on Brutalist map project.
+- 9 December: 0.5 hour linkedin, 1 hour learning Python, 2 hour brutalist map project, 3 hour learning Python.
+- 10 December: 2.5 hour on brutalist map
 
 ## To do:
 
