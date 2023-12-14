@@ -184,7 +184,8 @@ layout: "layout.html"
 - 9 December: 0.5 hour linkedin, 1 hour learning Python, 2 hour brutalist map project, 3 hour learning Python.
 - 10 December: 1 hour on cv and linkedin, 2.5 hour on brutalist map
 - 11 December: 3 hour on brutalist map, 3.5 hours learning Python
-- 12 December:
+- 12 December: 2 hours on brutalist map, 3.5 hours python
+- 13 December:
 
 ## To do:
 
@@ -222,6 +223,10 @@ layout: "layout.html"
 ### Learn Python
 
 - Finish learning, see [Python Roadmap](https://roadmap.sh/python) and folder and notes.
+
+### Learn SASS, Bootstrap, Materialize, Tailwind
+
+### Learn Node JS
 
 ////
 
