@@ -185,12 +185,14 @@ layout: "layout.html"
 - 10 December: 1 hour on cv and linkedin, 2.5 hour on brutalist map
 - 11 December: 3 hour on brutalist map, 3.5 hours learning Python
 - 12 December: 2 hours on brutalist map, 3.5 hours python
-- 13 December:
+- 14 December: 6 hours on brutalist map
+- 15 December:
 
 ## To do:
 
 ### Learn React
 
+- Rebuild portfolio in react, fork it.
 - Do freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
   - NB to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
