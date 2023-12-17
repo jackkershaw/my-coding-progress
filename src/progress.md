@@ -186,7 +186,8 @@ layout: "layout.html"
 - 11 December: 3 hour on brutalist map, 3.5 hours learning Python
 - 12 December: 2 hours on brutalist map, 3.5 hours python
 - 14 December: 6 hours on brutalist map
-- 15 December:
+- 15 December: 4.5 hours on CV and job search prep.
+- 16 December:
 
 ## To do:
 
