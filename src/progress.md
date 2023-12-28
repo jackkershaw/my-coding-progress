@@ -187,7 +187,8 @@ layout: "layout.html"
 - 12 December: 2 hours on brutalist map, 3.5 hours python
 - 14 December: 6 hours on brutalist map
 - 15 December: 4.5 hours on CV and job search prep.
-- 16 December:
+- 28 December: 2 hours learning Tailwind CSS
+- 29 December: Keep watching this from 17:15 https://www.youtube.com/watch?v=lCxcTsOHrjo
 
 ## To do:
 
@@ -213,11 +214,13 @@ layout: "layout.html"
 
 - Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-auto-dir/
 
+### Learn Typescript
+
 ### Learn Tailwind CSS
 
-- https://www.youtube.com/watch?v=lCxcTsOHrjo
-- https://www.youtube.com/watch?v=UBOj6rqRUME
-- https://tailwindcss.com/docs/installation
+### Learn NextJS
+
+Most common atm for full stack jobs is Typescript, NextJS and Tailwind.
 
 ### Learn SQL
 
@@ -230,6 +233,8 @@ layout: "layout.html"
 ### Learn SASS, Bootstrap, Materialize, Tailwind
 
 ### Learn Node JS
+
+extra bits of this: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ for missing Javascript knowledge
 
 ////
 
