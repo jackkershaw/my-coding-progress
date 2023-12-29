@@ -188,9 +188,8 @@ layout: "layout.html"
 - 14 December: 6 hours on brutalist map
 - 15 December: 4.5 hours on CV and job search prep.
 - 28 December: 2 hours learning Tailwind CSS
-- 29 December: 1.5 hours learning Tailwind CSS. Keep watching this from 38.05 https://www.youtube.com/watch?v=lCxcTsOHrjo
-- 30 December:
-- 3 January:
+- 29 December: 2.5 hours learning Tailwind CSS.
+- Keep watching this from 1hr https://www.youtube.com/watch?v=lCxcTsOHrjo and read from here: https://tailwindcss.com/docs/hover-focus-and-other-states on the core concepts of tailwind - just a few pages. Then move onto React and rebuilding portfolio in it.
 
 ## To do:
 
@@ -205,20 +204,21 @@ layout: "layout.html"
 - see react courses folder sonny sanghan
 - possibly this one: https://www.youtube.com/watch?v=bMknfKXIFA8
 - Create some projects with React involving API calls etc.
+- see react pro folder in to sort folder in downloads.
 
 ### Learn Javascript
 
 - In class exercises and notes
 - Fill in and consult [Javascript Roadmap](https://roadmap.sh/javascript) as go through
 - do these questions to test knowledge: https://roadmap.sh/questions/javascript
+- extra bits of this: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ for missing Javascript knowledge
+- node JS
 
 ### Improve VS Code Knowledge
 
 - Keep going with VS Code tricks course from here: https://fireship.io/courses/vscode-tricks/tip-auto-dir/
 
 ### Learn Typescript
-
-### Learn Tailwind CSS
 
 ### Learn NextJS
 
@@ -232,11 +232,7 @@ Most common atm for full stack jobs is Typescript, NextJS and Tailwind.
 
 - Finish learning, see [Python Roadmap](https://roadmap.sh/python) and folder and notes.
 
-### Learn SASS, Bootstrap, Materialize, Tailwind
-
-### Learn Node JS
-
-extra bits of this: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ for missing Javascript knowledge
+### Learn SASS
 
 ////
 
