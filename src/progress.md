@@ -188,7 +188,9 @@ layout: "layout.html"
 - 14 December: 6 hours on brutalist map
 - 15 December: 4.5 hours on CV and job search prep.
 - 28 December: 2 hours learning Tailwind CSS
-- 29 December: Keep watching this from 17:15 https://www.youtube.com/watch?v=lCxcTsOHrjo
+- 29 December: 1.5 hours learning Tailwind CSS. Keep watching this from 38.05 https://www.youtube.com/watch?v=lCxcTsOHrjo
+- 30 December:
+- 3 January:
 
 ## To do:
 
