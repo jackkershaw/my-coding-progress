@@ -192,6 +192,7 @@ layout: "layout.html"
 
 ## To do next:
 
+Tailwind:
 Keep watching this from 1hr https://www.youtube.com/watch?v=lCxcTsOHrjo and read from here: https://tailwindcss.com/docs/hover-focus-and-other-states on the core concepts of tailwind - just a few pages. Then move onto React and rebuilding portfolio in it.
 
 ### Learn React
