@@ -189,11 +189,13 @@ layout: "layout.html"
 - 15 December: 4.5 hours on CV and job search prep.
 - 28 December: 2 hours learning Tailwind CSS
 - 29 December: 2.5 hours learning Tailwind CSS.
+- 30 December: 4 hours learning Tailwind CSS.
+- 4 January:
 
 ## To do next:
 
 Tailwind:
-Keep watching this from 1hr https://www.youtube.com/watch?v=lCxcTsOHrjo and read from here: https://tailwindcss.com/docs/hover-focus-and-other-states on the core concepts of tailwind - just a few pages. Then move onto React and rebuilding portfolio in it.
+read from here: https://tailwindcss.com/docs/hover-focus-and-other-states on the core concepts of tailwind - just a few pages. And also the customization section.e.g. the bit about themes where you can set custom colour theme. Then move onto React and rebuilding portfolio in it.
 
 ### Learn React
 
