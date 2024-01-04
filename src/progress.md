@@ -190,16 +190,13 @@ layout: "layout.html"
 - 28 December: 2 hours learning Tailwind CSS
 - 29 December: 2.5 hours learning Tailwind CSS.
 - 30 December: 4 hours learning Tailwind CSS.
-- 4 January: 1.5 hour going through resources saved from reading Hacker News
+- 4 January: 1.5 hour going through resources saved from reading Hacker News, 1.5 hours finished learning Tailwind. 2 hours rebuilding portfolio using Vite, React and Tailwind CSS.
 
 ## To do next:
 
-Tailwind:
-read from here: https://tailwindcss.com/docs/hover-focus-and-other-states on the core concepts of tailwind - just a few pages. And also the customization section.e.g. the bit about themes where you can set custom colour theme. Then move onto React and rebuilding portfolio in it.
-
 ### Learn React
 
-- Rebuild portfolio in react, fork it.
+- Keep rebuilding portfolio in react, doing lessons along the way.
 - Do freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
   - NB to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
 - Fill in [Roadmap](https://roadmap.sh/react) as go along
@@ -216,7 +213,8 @@ read from here: https://tailwindcss.com/docs/hover-focus-and-other-states on the
 - Fill in and consult [Javascript Roadmap](https://roadmap.sh/javascript) as go through
 - do these questions to test knowledge: https://roadmap.sh/questions/javascript
 - extra bits of this: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ for missing Javascript knowledge
-- node JS
+- node JS and api calls
+- asynchronous js.
 
 ### Improve VS Code Knowledge
 
