@@ -190,7 +190,7 @@ layout: "layout.html"
 - 28 December: 2 hours learning Tailwind CSS
 - 29 December: 2.5 hours learning Tailwind CSS.
 - 30 December: 4 hours learning Tailwind CSS.
-- 4 January:
+- 4 January: 1.5 hour going through resources saved from reading Hacker News
 
 ## To do next:
 
