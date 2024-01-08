@@ -191,6 +191,8 @@ layout: "layout.html"
 - 29 December: 2.5 hours learning Tailwind CSS.
 - 30 December: 4 hours learning Tailwind CSS.
 - 4 January: 1.5 hour going through resources saved from reading Hacker News, 1.5 hours finished learning Tailwind. 2 hours rebuilding portfolio using Vite, React and Tailwind CSS.
+- 8 January: 4.5 hour on Python FreeCodeCamp course
+- 9 January:
 
 ## To do next:
 
@@ -233,6 +235,7 @@ Most common atm for full stack jobs is Typescript, NextJS and Tailwind.
 ### Learn Python
 
 - Finish learning, see [Python Roadmap](https://roadmap.sh/python) and folder and notes.
+- https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 ### Learn SASS
 
