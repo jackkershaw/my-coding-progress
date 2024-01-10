@@ -193,39 +193,11 @@ layout: "layout.html"
 - 4 January: 1.5 hour going through resources saved from reading Hacker News, 1.5 hours finished learning Tailwind. 2 hours rebuilding portfolio using Vite, React and Tailwind CSS.
 - 8 January: 4.5 hour on Python FreeCodeCamp course
 - 9 January: 1 hour careers lecture, 3 hour on Python FreeCodeCamp course, python ticket project and 1 hour learning Django
+- 10 January: 0.5 hour organising learning. 0.5 hour learning Python with FreeCodeCamp.
 
 ## To do next:
 
-### Learn React
-
-- Keep rebuilding portfolio in react, doing lessons along the way.
-- Do freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#react
-  - NB to do next bit need to learn about binding from here: https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/ or fireship.
-- Fill in [Roadmap](https://roadmap.sh/react) as go along
-- do these questions to test knowledge: https://roadmap.sh/questions/react
-- Keep going with React course: https://fireship.io/courses/react/1-react-search/ (from 2.20)
-- see react courses folder sonny sanghan
-- possibly this one: https://www.youtube.com/watch?v=bMknfKXIFA8
-- Create some projects with React involving API calls etc.
-- see react pro folder in to sort folder in downloads.
-
-### Learn Javascript
-
-- In class exercises and notes
-- Fill in and consult [Javascript Roadmap](https://roadmap.sh/javascript) as go through
-- do these questions to test knowledge: https://roadmap.sh/questions/javascript
-- extra bits of this: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ for missing Javascript knowledge
-- node JS and api calls
-- asynchronous js.
-
-### Learn SQL
-
-- Finish learning, see [SQL Roadmap](https://roadmap.sh/sql) and folder and notes.
-
-### Learn Python
-
-- Finish learning, see [Python Roadmap](https://roadmap.sh/python) and folder and notes.
-- https://www.freecodecamp.org/learn/scientific-computing-with-python/
+[See Nextcloud Tasks](https://nextcloud.jackkershaw.pp.ua/apps/tasks/#/collections/today)
 
 ## Codewars Profile
 
