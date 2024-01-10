@@ -193,7 +193,8 @@ layout: "layout.html"
 - 4 January: 1.5 hour going through resources saved from reading Hacker News, 1.5 hours finished learning Tailwind. 2 hours rebuilding portfolio using Vite, React and Tailwind CSS.
 - 8 January: 4.5 hour on Python FreeCodeCamp course
 - 9 January: 1 hour careers lecture, 3 hour on Python FreeCodeCamp course, python ticket project and 1 hour learning Django
-- 10 January: 0.5 hour organising learning. 1 hour learning Python with FreeCodeCamp.
+- 10 January: 0.5 hour organising learning. 4.5 hour learning Python with FreeCodeCamp, 1 hour setting up blog with Eleventy.
+- 11 January:
 
 ## To do next:
 
@@ -205,4 +206,4 @@ layout: "layout.html"
 
 ## freeCodeCamp Profile
 
-- I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58). More recently I completed the [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures).
+- I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. More recently I completed the [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures). You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
