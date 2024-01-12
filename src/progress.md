@@ -194,7 +194,8 @@ layout: "layout.html"
 - 8 January: 4.5 hour on Python FreeCodeCamp course
 - 9 January: 1 hour careers lecture, 3 hour on Python FreeCodeCamp course, python ticket project and 1 hour learning Django
 - 10 January: 0.5 hour organising learning. 4.5 hour learning Python with FreeCodeCamp, 1 hour setting up blog with Eleventy.
-- 11 January:
+- 11 January: 3.5 hour learning Python with freeCodeCamp, 1 hour careers session, 1.5 hour on portfolio.
+- 12 January: 0.5 hour meeting with developer of [Mealia](https://beta.mealia.co.uk), 5 hours on building personal portfolio in React and Tailwind.
 
 ## To do next:
 
