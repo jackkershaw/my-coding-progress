@@ -197,7 +197,8 @@ layout: "layout.html"
 - 11 January: 3.5 hour learning Python with freeCodeCamp, 1 hour careers session, 1.5 hour on portfolio.
 - 12 January: 0.5 hour meeting with developer of [Mealia](https://beta.mealia.co.uk), 5 hours on building personal portfolio in React and Tailwind.
 - 13 January: 6 hours on building personal portfolio.
-- 14 January: 2.5 hours on personal portfolio
+- 15 January: 5.5 hours on personal portfolio.
+- 16 January:
 
 
 
