@@ -198,9 +198,7 @@ layout: "layout.html"
 - 12 January: 0.5 hour meeting with developer of [Mealia](https://beta.mealia.co.uk), 5 hours on building personal portfolio in React and Tailwind.
 - 13 January: 6 hours on building personal portfolio.
 - 15 January: 5.5 hours on personal portfolio.
-- 16 January:
-
-
+- 16 January: 5 hours on personal portfolio.
 
 ## To do next:
 
