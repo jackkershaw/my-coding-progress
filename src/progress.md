@@ -199,7 +199,8 @@ layout: "layout.html"
 - 13 January: 6 hours on building personal portfolio.
 - 15 January: 5.5 hours on personal portfolio.
 - 16 January: 7 hours on personal portfolio.
-- 17 January: 1 hour gathering pieces for portfolio. 1 hour working on portfolio code and design layout.
+- 17 January: 1 hour gathering pieces for portfolio. 3 hour working on portfolio code and design layout.
+- 18 January:
 
 ## To do next:
 
