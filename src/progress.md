@@ -201,7 +201,7 @@ layout: "layout.html"
 - 16 January: 7 hours on personal portfolio.
 - 17 January: 1 hour gathering pieces for portfolio. 3 hour working on portfolio code and design layout.
 - 18 January: 3.5 hour working on CV, 1 hour technical interview prep, 1 hour on personal portfolio.
-- 19 January: 0.5 hour linkedin, 1.5 hour learning Django, 1.5 hour promoting brutalist map on Reddit etc,
+- 19 January: 0.5 hour linkedin, 1.5 hour learning Django, 1.5 hour promoting brutalist map on Reddit etc, 2.5 hour on portfolio.
 
 ## To do next:
 
