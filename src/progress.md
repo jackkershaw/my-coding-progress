@@ -204,6 +204,7 @@ layout: "layout.html"
 - 19 January: 0.5 hour linkedin, 1.5 hour learning Django, 1.5 hour promoting brutalist map on Reddit etc, 2.5 hour on portfolio.
 - 22 January: 0.5 hour CV edit styling, 1 hour on preparing for job interviews, 1 hour on portfolio.
 - 23 January: 5 hours on portfolio.
+- 24 January: 2.5 hours on portfolio. 1 hour on messaging people about the tech industry. 0.5 hour on Brutalist Map.
 
 ## To do next:
 
