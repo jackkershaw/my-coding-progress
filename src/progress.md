@@ -205,6 +205,8 @@ layout: "layout.html"
 - 22 January: 0.5 hour CV edit styling, 1 hour on preparing for job interviews, 1 hour on portfolio.
 - 23 January: 5 hours on portfolio.
 - 24 January: 2.5 hours on portfolio. 1 hour on messaging people about the tech industry. 0.5 hour on Brutalist Map.
+- 25 January: 4 hours job applications and working on Linkedin.
+- 26 January: 3 hours pitch preparation. 3.5 hours job board project.
 
 ## To do next:
 
