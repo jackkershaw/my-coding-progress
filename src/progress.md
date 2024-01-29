@@ -207,6 +207,8 @@ layout: "layout.html"
 - 24 January: 2.5 hours on portfolio. 1 hour on messaging people about the tech industry. 0.5 hour on Brutalist Map.
 - 25 January: 4 hours job applications and working on Linkedin.
 - 26 January: 3 hours pitch preparation. 3.5 hours job board project.
+- 27 January: 0.5 hours planning out week. 0.5 hours researching Wordpress (and React), 4.5 hours on job boards project, 2 hours on brutalist map.
+- 28 January:.
 
 ## To do next:
 
