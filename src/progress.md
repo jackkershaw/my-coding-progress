@@ -209,7 +209,7 @@ layout: "layout.html"
 - 26 January: 3 hours pitch preparation. 3.5 hours job board project.
 - 27 January: 0.5 hours planning out week. 0.5 hours researching Wordpress (and React), 4.5 hours on job boards project, 2 hours on brutalist map.
 - 28 January: 3 hours on brutalist map. 2 hours researching Wordpress and headless CMS platforms. 0.5 hours tying up personal projects.
-- 29 January: 2 hours job applications
+- 29 January: 3 hours job applications
 
 ## To do next:
 
