@@ -210,7 +210,7 @@ layout: "layout.html"
 - 27 January: 0.5 hours planning out week. 0.5 hours researching Wordpress (and React), 4.5 hours on job boards project, 2 hours on brutalist map.
 - 28 January: 3 hours on brutalist map. 2 hours researching Wordpress and headless CMS platforms. 0.5 hours tying up personal projects.
 - 29 January: 4.5 hours job applications, 2 hour portfolio pitch session, 0.5 hours job applications.
-- 30 January:
+- 30 January: 2 hours applying to jobs.
 
 ## To do next:
 
