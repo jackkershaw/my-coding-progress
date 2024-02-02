@@ -207,10 +207,12 @@ layout: "layout.html"
 - 24 January: 2.5 hours on portfolio. 1 hour on messaging people about the tech industry. 0.5 hour on Brutalist Map.
 - 25 January: 4 hours job applications and working on Linkedin.
 - 26 January: 3 hours pitch preparation. 3.5 hours job board project.
-- 27 January: 0.5 hours planning out week. 0.5 hours researching Wordpress (and React), 4.5 hours on job boards project, 2 hours on brutalist map.
-- 28 January: 3 hours on brutalist map. 2 hours researching Wordpress and headless CMS platforms. 0.5 hours tying up personal projects.
-- 29 January: 4.5 hours job applications, 2 hour portfolio pitch session, 0.5 hours job applications.
-- 30 January: 7 hours applying to jobs and updating profile on job sites.
+- 29 January: 0.5 hours planning out week. 0.5 hours researching Wordpress (and React), 4.5 hours on job boards project, 2 hours on brutalist map.
+- 30 January: 3 hours on brutalist map. 2 hours researching Wordpress and headless CMS platforms. 0.5 hours tying up personal projects.
+- 31 January: 4.5 hours job applications, 2 hour portfolio pitch session, 0.5 hours job applications.
+- 1 February: 7 hours applying to jobs and updating profile on job sites.
+- 2 February: 2.5 hours interview prep, 1 hour learning about Typescript.
+- 3 February:
 
 ## To do next:
 
