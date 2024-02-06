@@ -212,7 +212,9 @@ layout: "layout.html"
 - 31 January: 4.5 hours job applications, 2 hour portfolio pitch session, 0.5 hours job applications.
 - 1 February: 7 hours applying to jobs and updating profile on job sites.
 - 2 February: 2.5 hours interview prep, 1 hour learning about Typescript.
-- 3 February:
+- 3 February: 3.5 hours job applications, 0.5 learning Typescript.
+- 4 February: 1 hour applying to jobs, 0.5 hours learning Typescript.
+-
 
 ## To do next:
 
