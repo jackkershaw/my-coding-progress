@@ -216,7 +216,7 @@ layout: "layout.html"
 - 4 February: 1 hour applying to jobs, 0.5 hours learning Typescript, 4 hours learning NextJS and working on Brutalist project.
 - 5 February: 4 hours learning how to fetch data from API in Javascript with FreecodeCamp (last section of new js course), 2.5 hours applying to jobs.
 - 6 February: 1 hour applying to jobs, 0.5 hours learning about APIs
-- 7 February: 0.5 hours applying to jobs. 0.5 hours linkedin session 2.5 pokemon search APIs project.
+- 7 February: 0.5 hours applying to jobs. 0.5 hours linkedin session 5 hours pokemon search APIs project.
 
 ## To do next:
 
