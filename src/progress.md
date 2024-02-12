@@ -217,7 +217,8 @@ layout: "layout.html"
 - 7 February: 4 hours learning how to fetch data from API in Javascript with FreecodeCamp (last section of new js course), 2.5 hours applying to jobs.
 - 8 February: 1 hour applying to jobs, 0.5 hours learning about APIs
 - 9 February: 0.5 hours applying to jobs. 0.5 hours linkedin session 5 hours pokemon search APIs project.
-- 12 February: 1 hour cover letter session, 0.5 hour applying to recruitment agencies.
+- 12 February: 1 hour cover letter session, 1.5 hour applying to recruitment agencies and edit sites on jobseeker site. 0.25 hours working on Linkedin. 1.5 hours applying to jobs.
+- 13 February:
 
 ## To do next:
 
