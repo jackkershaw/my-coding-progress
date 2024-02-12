@@ -211,12 +211,13 @@ layout: "layout.html"
 - 30 January: 3 hours on brutalist map. 2 hours researching Wordpress and headless CMS platforms. 0.5 hours tying up personal projects.
 - 31 January: 4.5 hours job applications, 2 hour portfolio pitch session, 0.5 hours job applications.
 - 1 February: 7 hours applying to jobs and updating profile on job sites.
-- 2 February: 2.5 hours interview prep, 1 hour learning about Typescript.
-- 3 February: 3.5 hours job applications, 0.5 learning Typescript.
-- 4 February: 1 hour applying to jobs, 0.5 hours learning Typescript, 4 hours learning NextJS and working on Brutalist project.
-- 5 February: 4 hours learning how to fetch data from API in Javascript with FreecodeCamp (last section of new js course), 2.5 hours applying to jobs.
-- 6 February: 1 hour applying to jobs, 0.5 hours learning about APIs
-- 7 February: 0.5 hours applying to jobs. 0.5 hours linkedin session 5 hours pokemon search APIs project.
+- 4 February: 2.5 hours interview prep, 1 hour learning about Typescript.
+- 5 February: 3.5 hours job applications, 0.5 learning Typescript.
+- 6 February: 1 hour applying to jobs, 0.5 hours learning Typescript, 4 hours learning NextJS and working on Brutalist project.
+- 7 February: 4 hours learning how to fetch data from API in Javascript with FreecodeCamp (last section of new js course), 2.5 hours applying to jobs.
+- 8 February: 1 hour applying to jobs, 0.5 hours learning about APIs
+- 9 February: 0.5 hours applying to jobs. 0.5 hours linkedin session 5 hours pokemon search APIs project.
+- 12 February: 1 hour cover letter session, 0.5 hour applying to recruitment agencies.
 
 ## To do next:
 
