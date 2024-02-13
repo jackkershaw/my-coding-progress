@@ -218,7 +218,8 @@ layout: "layout.html"
 - 8 February: 1 hour applying to jobs, 0.5 hours learning about APIs
 - 9 February: 0.5 hours applying to jobs. 0.5 hours linkedin session 5 hours pokemon search APIs project.
 - 12 February: 1 hour cover letter session, 1.5 hour applying to recruitment agencies and edit sites on jobseeker site. 0.25 hours working on Linkedin. 1.5 hours applying to jobs, 1 hour brutalist map project.
-- 13 February:
+- 13 February: 5.5 hours on brutalist map project, 2 hours applying to jobs.
+- 14 February:
 
 ## To do next:
 
