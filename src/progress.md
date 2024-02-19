@@ -222,7 +222,7 @@ layout: "layout.html"
 - 14 February: 2.5 hours applying to jobs.
 - 15 February: 2hours job interview, 1.5 hours applying to jobs, 2 hours brutalist map project.
 - 16 February: 0.5 hours looking into MongoDB, 4 hour brutalist map.
-- 19 February:
+- 19 February: 3 hour working on Brutalist map project, 3 hours applying to jobs.
 
 ## To do next:
 
