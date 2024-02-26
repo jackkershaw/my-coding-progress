@@ -225,9 +225,7 @@ layout: "layout.html"
 - 19 February: 3 hour working on Brutalist map project, 3 hours applying to jobs.
 - 20 February: 1 hour looking into frameworks, 1 hour applying to jobs, 4 hours Brutalist map project.
 - 21 February: 0.5 hours planning next few days, 4.5 hour brutalist map, 1 hour applying to jobs.
-
-- 22 February:
-  -- prioritise applying to jobs.
+- 24 February: 2 hour coding meetup Foyles, 2 hour working on brutalist map project, 4 hour working on CV and Cover Letter.
 
 ## To do next:
 
