@@ -228,7 +228,9 @@ layout: "layout.html"
 - 24 February: 2 hour coding meetup Foyles, 2 hour working on brutalist map project, 4 hour working on CV and Cover Letter.
 - 26 February: 6 hours re-writing CV and cover letter.
 - 27 February: 0.5 hours editing cover letter, 7 hours working on portfolio.
-- 28 February: 5 hours working on portfolio, adding blog.
+- 28 February: 5 hours working on portfolio, adding blog, 2.5 hours applying to jobs.
+- 29 February:
+  -Focus on jobs, 2 hours developing, 5 hours jobs or something like that.
 
 ## To do next:
 
