@@ -4,6 +4,8 @@ layout: "layout.html"
 
 # My Coding Progress
 
+Keeping track of my journey learning to code, from October 2022 - Now. Hope this can provide a loose guide, or inspire other learners.
+
 ## Timeline 14th October 2022 - Present
 
 - 14th October: done [Setting up a web page](https://oliverjam.es/blog/complete-guide-to-making-web-pages/)
@@ -232,9 +234,9 @@ layout: "layout.html"
 - 29 February:
   5 hours working on CV, portfolio and blog.
 - 1 March:
-  1.5 hours writing blog post and editing portfolio RSS.
+  2 hours writing blog post and editing portfolio RSS, editing blog post drafts.
 
-## To do next:
+## To do next
 
 [See Nextcloud Tasks](https://nextcloud.jackkershaw.pp.ua/apps/tasks/#/collections/today)
 
