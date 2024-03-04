@@ -234,7 +234,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 29 February:
   5 hours working on CV, portfolio and blog.
 - 1 March:
-  2.5 hours writing blog post and editing portfolio RSS, editing blog post drafts and progress section of personal site, 2 hours job applications, 1 hour debugging wordpress site, 1 hour applying to jobs
+  2.5 hours writing blog post and editing portfolio RSS, editing blog post drafts and progress section of personal site, 2 hours job applications, 1 hour debugging wordpress site, 2 hour applying to jobs
+- 4 March: 1 hour catching up developer news and working on portfolio edits.
 
 ## To do next
 
