@@ -238,7 +238,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 4 March: 1 hour catching up developer news and working on portfolio edits, 1.5 applying for jobs, 1 hour open applications
 - 5 March: 3 hours working on target companies and part time list, 2.5 hours job list and looking at tech coops, 1.5 hour open applications.
 - 6 March: 1 hour open applications, 0.5 hours looking into django, drupal and web dev agencies in London, 4 hours brutalist map.
-- 7 March:
+- 7 March: 2.5hours set up movie list website in Vue, 3.5 hours applying to jobs.
+- 8 March:
 
 ## To do next
 
