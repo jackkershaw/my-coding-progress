@@ -240,7 +240,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 6 March: 1 hour open applications, 0.5 hours looking into django, drupal and web dev agencies in London, 4 hours brutalist map.
 - 7 March: 2.5hours set up movie list website in Vue, 3.5 hours applying to jobs.
 - 8 March: 2 hours on daily challenges at coding meetup.
-- 9 March: 3 hour on MovieList project.
+- 9 March: 3 hour on MovieList project, 2 hours learning Node with CodeAcademy
 
 ## To do next
 
