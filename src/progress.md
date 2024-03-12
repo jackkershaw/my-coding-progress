@@ -241,7 +241,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 7 March: 2.5hours set up movie list website in Vue, 3.5 hours applying to jobs.
 - 8 March: 2 hours on daily challenges at coding meetup.
 - 11 March: 3 hour on MovieList project, 2 hours learning Node with CodeAcademy, 0.5 hours doing open applications.
-- 12 March: 1 hour learning Node with CodeAcademy.
+- 12 March: 3.5 hour learning Node with CodeAcademy, 0.5 hours job interview prep, 1 hour applying to jobs.
 
 ## To do next
 
