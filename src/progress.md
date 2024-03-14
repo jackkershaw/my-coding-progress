@@ -243,7 +243,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 11 March: 3 hour on MovieList project, 2 hours learning Node with CodeAcademy, 0.5 hours doing open applications.
 - 12 March: 3.5 hour learning Node with CodeAcademy, 0.5 hours job interview prep, 1 hour applying to jobs.
 - 13 March: 5 hour applying to jobs, 1 hour planning personal projects.
-- 14 March: 2 hour applying to jobs
+- 14 March: 2 hour applying to jobs, 2 hours editing portfolio, 3 hours at job fair.
 
 ## To do next
 
