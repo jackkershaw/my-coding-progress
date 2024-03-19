@@ -246,7 +246,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 14 March: 2 hour applying to jobs, 2 hours editing portfolio, 2 hours at job fair, 1 hour prepping for job interview.
 - 15 March: 4 hours prepping for job interview and looking at job applications, 1 hour applying to jobs, 1 hour job interview.
 - 18 March: 1 hour applying to jobs, 0.5 hours looking into web technologies, 5.5 hours brutalist map, 0.5 hours applying to jobs
-- 19 March:
+- 19 March: 0.5 hours applying to jobs, 3 hour brutalist map project.
 
 ## To do next
 
