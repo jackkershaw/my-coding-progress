@@ -249,7 +249,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 19 March: 0.5 hours applying to jobs, 3 hour brutalist map project.
 - 20 March: 1 hour applying to jobs, 2 hour brutalist map project, 2 hours museum redesign project.
 - 24 March: 5 hours applying to jobs.
-- 25 March:
+- 25 March: 5 hours museum redesign project.
 
 ## To do next
 
