@@ -251,6 +251,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 24 March: 5 hours applying to jobs.
 - 25 March: 5 hours museum redesign project.
 - 26 March: 4 hours museum redesign project.
+- 27 March: 1 hour applying to jobs, 1 hour museum redesign project.
 
 ## To do next
 
