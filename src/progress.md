@@ -258,7 +258,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 9 April: 0.5 hours Vital signs website.
 - 10 April: 5 hours on portfolio.
 - 13 April: 1.5 hour Vital signs website.
-- 14 April: 1 hour Vital signs website.
+- 14 April: 2.5 hour Vital signs website.
 
 ## To do next
 
