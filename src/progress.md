@@ -254,12 +254,14 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 27 March: 1.5 hour applying to jobs, 1 hour museum redesign project.
 - 28 March: 4 hours museum redesign project.
 - 31 March: 3 hours job applications.
-- 8 April: 0.5 hours Vital signs website.
-- 9 April: 0.5 hours Vital signs website.
+- 8 April: 0.5 hours Vital Signs website.
+- 9 April: 0.5 hours Vital Signs website.
 - 10 April: 5 hours on portfolio.
-- 13 April: 1.5 hour Vital signs website.
-- 14 April: 2.5 hour Vital signs website.
-- 15 April: 6.5 hours Vital signs website.
+- 13 April: 1.5 hour Vital Signs website.
+- 14 April: 2.5 hour Vital Signs website.
+- 15 April: 6.5 hours Vital Signs website.
+- 16 April: 1 hour call with mentor.
+- 17 April: 1 hour Vital Signs website.
 
 ## To do next
 
