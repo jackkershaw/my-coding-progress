@@ -266,10 +266,6 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 19 April: 2.5 hours Vital Signs website.
 - 22 April: 4.5 hours Portfolio
 
-## To do next
-
-[See Nextcloud Tasks](https://nextcloud.jackkershaw.pp.ua/apps/tasks/#/collections/today)
-
 ## Codewars Profile
 
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here](https://www.codewars.com/users/jones58)
