@@ -265,8 +265,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 April: 1.5 hours Vital Signs website.
 - 19 April: 2.5 hours Vital Signs website.
 - 22 April: 6 hours Portfolio.
-- 23 April: Vital signs today!
-- 24 April: Portfolio today!
+- 23 April: 3.5 hours Vital Signs Website.
+- 24 April: Vital Signs today!
 
 ## Codewars Profile
 
