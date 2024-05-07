@@ -273,7 +273,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 30 April: 3 hour Vital Signs website.
 - 1 May: 5 hour Vital Signs website.
 - 2 May: 0.5 hour sorting emails. 4.5 hours Vital Signs website.
-- 3 May: 2 hours Vital Signs website.
+- 3 May: 7.5 hours Vital Signs website.
+- 4 May:
 
 ## Codewars Profile
 
