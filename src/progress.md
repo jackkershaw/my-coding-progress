@@ -283,7 +283,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 May: 0.25 hour Vital Signs
 - 19 May: 1 hour Vital Signs
 - 20 May: 3 hour Vital Signs
-- 21 May: 2 hour Vital Signs, 1 hour blog post.
+- 21 May: 2 hour Vital Signs sticker, 1.5 hours writing blog post.
 
 ## Codewars Profile
 
