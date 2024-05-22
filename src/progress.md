@@ -281,7 +281,9 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 15 May: 1 hour on CV and job applications, 1.5 hours Vital Signs website.
 - 17 May: 0.5 hour Vital Signs, 1 hour coding test prep
 - 18 May: 0.25 hour Vital Signs
-- 19 May: 0.5 hour Vital Signs
+- 19 May: 1 hour Vital Signs
+- 20 May: 3 hour Vital Signs
+- 21 May: 1.5 hour Vital Signs, 1 hour blog post.
 
 ## Codewars Profile
 
