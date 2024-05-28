@@ -288,6 +288,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 24 May: 5.5 hour Right to City website, 1.75 hour coding test.
 - 25 May: 2.5 hour Right to City website
 - 27 May: 4 hour Right to City website
+- 28 May: 5 hour Right to City website, 0.5 hour sticker design
+- 29 May:
 
 ## Codewars Profile
 
