@@ -291,6 +291,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 28 May: 5 hour Right to City website, 0.5 hour sticker design
 - 29 May: 3 hour Right to City website
 - 30 May: 6.5 hour Right to City website
+- 1 June: 0.5 hour Right to City website
+- 2 June: 1.5 hour Right to City website
 
 ## Codewars Profile
 
