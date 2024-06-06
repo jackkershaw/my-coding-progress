@@ -296,6 +296,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 3 June: 0.5 hour Museum Redesign, 0.5 hour Right to City website
 - 4 June: 0.5 hour Right to City website
 - 5 June: 0.5 hour Right to City website
+- 6 June: 0.5 hour Right to City website
 
 ## Codewars Profile
 
