@@ -299,7 +299,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 6 June: 0.5 hour Right to City website
 - 7 June: 3 hour Right to City website
 - 8 June: 1 hour Right to City website
-- 9 June: 0.5 hour Vital Signs, 1 hour catching up developer news and sorting files, 0.5 hour fare free london.
+- 9 June: 0.5 hour Vital Signs, 1 hour catching up developer news and sorting files, 0.5 hour fare free london, 4.5 personal portfolio
+- 10 June:
 
 ## Codewars Profile
 
