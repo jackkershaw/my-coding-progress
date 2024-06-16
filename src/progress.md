@@ -302,6 +302,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 10 June: 0.5 hour Vital Signs, 1 hour catching up developer news and sorting files, 0.5 hour fare free london, 4.5 personal portfolio
 - 11 June: 3 hour meeting developer, 3 hour Fare Free London site.
 - 12 June: 1 hour Fare Free London
+- 15 June: 1 hour Fare Free London 
 
 ## Codewars Profile
 
