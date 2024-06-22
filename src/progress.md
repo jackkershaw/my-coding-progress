@@ -308,7 +308,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 June: 0.5 hour applying to jobs, 1 hour st raph's fruit harvesters, 3.5 hour Fare Free London
 - 19 June: 6 hour Fare Free London
 - 20 June: 1.5 hour Fare Free London
-- 21 June: 1.5 hour Fare Free London
+- 21 June: 5 hour Fare Free London
 
 ## Codewars Profile
 
