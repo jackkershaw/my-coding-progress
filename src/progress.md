@@ -310,6 +310,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 20 June: 1.5 hour Fare Free London
 - 21 June: 5 hour Fare Free London
 - 29 June: 2 hour Fare Free London
+- 1 July: 11 hour Tech Zero Hackathon
+
 
 ## Codewars Profile
 
