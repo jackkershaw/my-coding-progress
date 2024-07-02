@@ -311,6 +311,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 21 June: 5 hour Fare Free London
 - 29 June: 2 hour Fare Free London
 
+- 2 July: 11 hour Hackathon
+
 ## Codewars Profile
 
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here](https://www.codewars.com/users/jones58)
