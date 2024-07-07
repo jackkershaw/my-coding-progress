@@ -314,6 +314,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 2 July: 11 hour Tech Zero Hackathon
 - 4 July: 2 hour Take Back Water
 - 6 July: 0.5 hour Fare Free London
+- 7 July: 4 hour Fare Free London
 
 ## Codewars Profile
 
