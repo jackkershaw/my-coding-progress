@@ -317,6 +317,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 7 July: 4 hour Fare Free London, 0.5 hour Linkedin.
 - 16 July: 0.5 hour emails, 4.5 hour Fare Free London
 - 17 July: 4 hour Take Back Water, 3 hour Fare Free London
+- 18 July: 2 hour Take Back Water
 
 ## Codewars Profile
 
