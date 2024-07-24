@@ -321,6 +321,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 20 July: 3.5 hour Take Back Water
 - 22 July: 2.5 hour Take Back Wate
 - 23 July: 3 hour Portfolio, 1 hour Fare Free London
+- 24 July: 0.5 hour Portfolio
 
 ## Codewars Profile
 
