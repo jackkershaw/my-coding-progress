@@ -324,7 +324,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 24 July: 0.5 hour Portfolio
 - 31 July: 0.5 hour Fare Free London
 - 1 August: 1 hour editing London tech meetups site
-- 2 August: 4 hour Portfolio
+- 2 August: 5.5 hour Portfolio
 
 ## Codewars Profile
 
