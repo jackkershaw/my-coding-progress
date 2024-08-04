@@ -326,6 +326,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 1 August: 1 hour editing London tech meetups site
 - 2 August: 5.5 hour Portfolio
 - 3 August: 4 hour Portfolio
+- 4 August: 0.5 hour Portfolio, 1 hour setting up Umami self hosted.
 
 ## Codewars Profile
 
