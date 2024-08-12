@@ -332,7 +332,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 8 August:
 - 9 August: 1 hour Pluto
 - 11 August: 1 hour learning Python
-- 12 August: 1 hour Octopus Energy finances for Pluto,
+- 12 August: 1 hour Octopus Energy finances for Pluto, 3.5 hour learning FastHTML.
 
 ## Codewars Profile
 
