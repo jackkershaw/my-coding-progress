@@ -329,6 +329,10 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 4 August: 0.5 hour Portfolio, 1 hour setting up Umami self hosted.
 - 5 August: Day at Octopus Energy
 - 6 August: Day at Octopus Energy
+- 8 August:
+- 9 August: 1 hour Pluto
+- 11 August: 1 hour learning Python
+- 12 August: 1 hour Octopus Energy finances for Pluto,
 
 ## Codewars Profile
 
