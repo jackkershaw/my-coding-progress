@@ -343,3 +343,9 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 ## freeCodeCamp Profile
 
 - I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. More recently I completed the [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures). You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
+
+## Get In Touch 
+
+[LinkedIn](https://www.linkedin.com/in/jackkershaw)
+[Github](https://www.github.com/jones58)
+[Email me](mailto:jackkershaw@protonmail.com)
