@@ -335,6 +335,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 12 August: 1 hour Octopus Energy finances for Pluto, 3.5 hour learning FastHTML.
 - 13 August: Day at octopus working on pluto
 - 15 August: 2 hour Fare Free London
+- 16 August: 6 hour GraphQL and Apollo
 
 ## Codewars Profile
 
@@ -344,7 +345,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 
 - I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. More recently I completed the [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures). You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
 
-## Get In Touch 
+## Get In Touch
 
 [LinkedIn](https://www.linkedin.com/in/jackkershaw)
 [Github](https://www.github.com/jones58)
