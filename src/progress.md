@@ -336,6 +336,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 13 August: Day at octopus working on pluto
 - 15 August: 2 hour Fare Free London
 - 16 August: 6 hour GraphQL and Apollo
+- 17 August: 3 hour GraphQL and Apollo, 4 hour Pluto
+- 18 August: 6 Hour learning Storybook
 
 ## Codewars Profile
 
