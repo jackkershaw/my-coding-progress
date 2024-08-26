@@ -338,6 +338,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 16 August: 6 hour GraphQL and Apollo
 - 17 August: 3 hour GraphQL and Apollo, 4 hour Pluto
 - 18 August: 6 Hour learning Storybook
+- 25 August: 1 hour Personal Knowledge Wiki
+- 26 August: 5 hour Personal Knowledge Wiki
 
 ## Codewars Profile
 
