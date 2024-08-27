@@ -340,6 +340,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 August: 6 Hour learning Storybook
 - 25 August: 1 hour Personal Knowledge Wiki
 - 26 August: 6 hour Personal Knowledge Wiki
+- 27 August: 3.5 hour learning SASS and applying it to an up date on my Brutalist Map.
 
 ## Codewars Profile
 
