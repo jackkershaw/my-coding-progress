@@ -342,7 +342,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 26 August: 6 hour Personal Knowledge Wiki
 - 27 August: 7 hour learning SASS and applying it to an update on Brutalist Map project.
 - 28 August: 2.5 hour Pluto Power designing in Figma, 2.5 hour Brutalist Map with SASS.
-- 29 August: 2.5 hour updating CV.
+- 29 August: 6.5 hour updating CV, portfolio, LinkedIn and Github. Mentoring call with more junior developer.
 
 ## Codewars Profile
 
