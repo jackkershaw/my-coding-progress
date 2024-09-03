@@ -344,6 +344,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 28 August: 2.5 hour Pluto Power designing in Figma, 2.5 hour Brutalist Map with SASS.
 - 29 August: 6.5 hour updating CV, portfolio, LinkedIn and Github. Mentoring call with more junior developer.
 - 1 September: 3 hour working on CV, portfolio and brutalist map.
+- 2 September: 2 hour working on CV and portfolio.
 
 ## Codewars Profile
 
