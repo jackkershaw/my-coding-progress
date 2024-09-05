@@ -347,6 +347,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 2 September: 2 hour working on CV and portfolio.
 - 3 September: 5 hour CV and portfolio.
 - 4 September: Day at Octopus working on Pluto.
+- 5 September: 5 hour learning Jest and TDD.
 
 ## Codewars Profile
 
