@@ -345,6 +345,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 29 August: 6.5 hour updating CV, portfolio, LinkedIn and Github. Mentoring call with more junior developer.
 - 1 September: 3 hour working on CV, portfolio and brutalist map.
 - 2 September: 2 hour working on CV and portfolio.
+- 3 September: 5 hour CV and portfolio.
+- 4 September: Day at Octopus working on Pluto.
 
 ## Codewars Profile
 
