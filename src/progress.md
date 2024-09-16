@@ -351,6 +351,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 11 September: 5 hour learning React and CSS.
 - 12 September: 5 hour learning React and practice exercises.
 - 15 September: 3 hour learning React.
+- 16 September: 3 hour React practice challenges.
 
 ## Codewars Profile
 
