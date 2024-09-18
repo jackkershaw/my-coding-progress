@@ -353,7 +353,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 15 September: 3 hour learning React.
 - 16 September: 5.5 hour React practice challenges.
 - 17 September: 5.5 hour Choose Love prep including task and learning Airtable and Postmark.
-- 18 September: 1 hour prepping Choose Love, 0.5 hour fixing PRs, 0.5 hour doing TypeScript exercises on Codewars.
+- 18 September: 1 hour prepping Choose Love, 0.5 hour fixing PRs, 3 hour doing TypeScript exercises on Codewars.
+- 19 September:
 
 ## Codewars Profile
 
