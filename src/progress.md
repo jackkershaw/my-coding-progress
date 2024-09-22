@@ -356,6 +356,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 September: 1 hour prepping Choose Love, 0.5 hour fixing PRs, 3 hour doing TypeScript exercises on Codewars.
 - 19 September: 3 hour TypeScript challenges, 3 hour Choose Love prep and interview.
 - 20 September: 2 hour TypeScript challenges on Codewars
+- 21 September: 2.5 hour interview prep
 
 ## Codewars Profile
 
