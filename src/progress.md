@@ -363,7 +363,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 30 September: 4 hour applying to jobs
 - 2 October: 8 hour Pluto Power
 - 8 October: 1 hour London tech meetups site 2 hour Fare Free London 1 hour Job interview
-- 9 October: 2 hour Pluto Power
+- 9 October: 3.5 hour Pluto Power
 
 ## Codewars Profile
 
