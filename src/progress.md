@@ -358,6 +358,11 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 20 September: 2 hour TypeScript challenges on Codewars
 - 21 September: 2.5 hour interview prep
 - 22 September: 1 hour fixing PRs and build errors, 3 hours on Brutalist Map
+- 23 September: 4 hour job interview (incl prep time)
+- 30 September: 4 hour applying to jobs
+- 2 October: 8 hour Pluto Power
+- 8 October: 1 hour London tech meetups site 2 hour Fare Free London 1 hour Job interview
+- 9 October : 2 hour Pluto Power
 
 ## Codewars Profile
 
