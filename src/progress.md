@@ -364,6 +364,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 2 October: 8 hour Pluto Power
 - 8 October: 1 hour London tech meetups site 2 hour Fare Free London 1 hour Job interview
 - 9 October: 3.5 hour Pluto Power
+- 10 October: 1 hour rent strike website
 
 ## Codewars Profile
 
