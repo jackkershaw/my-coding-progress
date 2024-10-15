@@ -365,6 +365,9 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 8 October: 1 hour London tech meetups site 2 hour Fare Free London 1 hour Job interview
 - 9 October: 3.5 hour Pluto Power
 - 10 October: 1 hour rent strike website
+- 11 October: 1 hour Job interview
+- 14 October: 5 hour Brutalist Map, 1 hour Job interview and prep
+- 15 October: 1 hour misc sorting loose ends like pull requests
 
 ## Codewars Profile
 
