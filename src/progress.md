@@ -368,7 +368,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 11 October: 1 hour Job interview
 - 14 October: 5 hour Brutalist Map, 1 hour Job interview and prep
 - 15 October: 1 hour misc sorting loose ends like pull requests, 2 hour learning testing with Jest, 1 hour job interview and prep.
-- 16 October:
+- 16 October: 3 hour rent strike website.
 
 ## Codewars Profile
 
