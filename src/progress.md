@@ -371,7 +371,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 16 October: 3 hour rent strike website.
 - 18 October: 0.5 hour resolving emails, whois domain info etc., 1.5 hour Coding test Autone, 0.5 landbanking coding test, 0.5 hour Job applications including sheet.
 - 21 October: 1 hour Rent strike
-- 22 October: 1.5 hour Brutalist Map, 0.5 hour
+- 22 October: 1.5 hour Brutalist Map, 0.5 hour job applications, 1 hour Placecal setting up
 
 ## Codewars Profile
 
