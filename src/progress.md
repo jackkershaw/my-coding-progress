@@ -374,6 +374,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 22 October: 1.5 hour Brutalist Map, 0.5 hour job applications, 1 hour Placecal setting up
 - 24 October: 4.5 hour Pluto website including learning Redux
 - 1 November: 6 hour Pluto website
+- 4 November: 7 hour Pluto Website
 
 ## Codewars Profile
 
