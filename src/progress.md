@@ -375,6 +375,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 24 October: 4.5 hour Pluto website including learning Redux
 - 1 November: 6 hour Pluto website
 - 4 November: 7 hour Pluto Website
+- 5 November: 1 hour Rent Strike Website
 
 ## Codewars Profile
 
