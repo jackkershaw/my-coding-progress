@@ -376,6 +376,13 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 1 November: 6 hour Pluto website
 - 4 November: 7 hour Pluto Website
 - 5 November: 1 hour Rent Strike Website
+- 7 November: 1 hour Job interview Ayora
+- 11 November: 6 hour Working on Pluto at Octopus
+- 25 November: 4 hour apply to jobs
+- 26 November: 8 hour Working on Pluto at Octopus
+- 27 November: 2 hour applying to jobs
+- 2 December: 2 hour applying to jobs
+- 4 December: 5 hour applying to jobs and learning
 
 ## Codewars Profile
 
