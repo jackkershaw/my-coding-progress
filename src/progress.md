@@ -385,6 +385,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 4 December: 4 hour applying to jobs and 1 hour learning Redux
 - 5 December: 3 hour editing portfolio, 1 hour applying to jobs
 - 6 December: 1.5 hour applying to jobs, 3.5 hour Pluto
+- 9 December: 0.5 hour applying to jobs, 1 hour learning Redux
+- 10 December:
 
 ## Codewars Profile
 
