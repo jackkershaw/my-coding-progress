@@ -388,6 +388,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 9 December: 0.5 hour applying to jobs, 1 hour learning Redux, 3.5 hour FreeCodeCamp frontend projects
 - 11 December: 1 hour applying to jobs, 4 hour working on portfolio.
 - 17 December: 3 hour Octopus
+- 6 January: 3 hour Zetkin
+- 9 January: 2 hour Octopus, 2 hours applying to jobs
 
 ## Codewars Profile
 
