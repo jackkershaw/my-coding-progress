@@ -390,6 +390,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 17 December: 3 hour Octopus
 - 6 January: 3 hour Zetkin
 - 9 January: 2 hour Octopus, 2 hours applying to jobs
+- 17 January: 2 hour Zetkin looking at issues and familiarising with codebase, 2 hour octopus
 
 ## Codewars Profile
 
