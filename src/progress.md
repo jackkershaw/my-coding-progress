@@ -395,6 +395,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 23 January: 6 hours job applications including coding tests
 - 24 January: 2 hour job applications
 - 27 January: 2.5 hour Zetkin, working on issues and familiarising with project and codebase
+- 29 January: 0.5 recruiter call
+- 30 January: 0.5 hour interview, 5 hour coding task
 
 ## Codewars Profile
 
