@@ -397,6 +397,12 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 27 January: 2.5 hour Zetkin, working on issues and familiarising with project and codebase
 - 29 January: 0.5 recruiter call
 - 30 January: 0.5 hour interview, 5 hour coding task
+- 1 February: 6 hours Zetkin
+- 2 February: 6 hours Zetkin
+- 3 February: 4 hours coding test and prep
+- 6 February: 6 hours applications and 2 hour meetup
+- 13 February: 1 hour Octopus meeting and prep
+- 14 February: 3 hour Brutalist Map
 
 ## Codewars Profile
 
