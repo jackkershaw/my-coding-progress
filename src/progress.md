@@ -402,7 +402,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 3 February: 4 hours coding test and prep
 - 6 February: 6 hours applications and 2 hour meetup
 - 13 February: 1 hour Octopus meeting and prep
-- 14 February: 3 hour Brutalist Map
+- 14 February: 3 hour Brutalist Map, 1 hour planning projects and goals over next weeks.
 
 ## Codewars Profile
 
