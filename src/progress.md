@@ -404,7 +404,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 13 February: 1 hour Octopus meeting and prep
 - 14 February: 5 hour Brutalist Map, 1 hour planning projects and goals over next weeks
 - 15 February: 2 hour Brutalist Map
-- 16 February: 0.5 hour reading up on Tailwind vs scoped CSS and BEM, 0.5 hours personal portfolio
+- 16 February: 0.5 hour reading up on Tailwind vs scoped CSS and BEM, 1 hour personal portfolio
 
 ## Codewars Profile
 
