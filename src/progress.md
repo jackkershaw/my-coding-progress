@@ -405,6 +405,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 14 February: 5 hour Brutalist Map, 1 hour planning projects and goals over next weeks
 - 15 February: 2 hour Brutalist Map
 - 16 February: 0.5 hour reading up on Tailwind vs scoped CSS and BEM, 1 hour personal portfolio
+- 17 February: 2.5 hour job interview prep.
 
 ## Codewars Profile
 
