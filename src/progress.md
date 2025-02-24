@@ -409,7 +409,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 February: 2 hour interview practice and interview
 - 19 February: 3 hour interview and practice
 - 22 February: 2 hour Fare Free London
-- 24 February: 2 hour Brutalist Map
+- 24 February: 5 hour Brutalist Map
 
 ## Codewars Profile
 
