@@ -407,6 +407,9 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 16 February: 0.5 hour reading up on Tailwind vs scoped CSS and BEM, 1 hour personal portfolio
 - 17 February: 6 hour job interview prep
 - 18 February: 2 hour interview practice and interview
+- 19 February: 3 hour interview and practice
+- 22 February: 2 hour Fare Free London
+- 24 February: 2 hour Brutalist Map
 
 ## Codewars Profile
 
