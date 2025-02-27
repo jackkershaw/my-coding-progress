@@ -411,7 +411,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 22 February: 2 hour Fare Free London
 - 24 February: 5 hour Brutalist Map
 - 26 February: 4 hour practice Python and job applications
--
+- 27 February: 1.5 hours coding challenges in Python
 
 ## Codewars Profile
 
