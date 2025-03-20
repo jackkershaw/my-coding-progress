@@ -417,6 +417,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 13 March: 2 hour coding meetup
 - 14 March: 1 hour Interview incl. prep
 - 15 March: 2 hour Fare Free London
+- 20 March: 2 hour job interview/coding test
 
 ## Codewars Profile
 
