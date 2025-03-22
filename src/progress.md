@@ -419,6 +419,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 15 March: 2 hour Fare Free London
 - 20 March: 2 hour job interview/coding test
 - 21 March: 2.5 hour coding test and practice, 2.5 hour another coding test
+- 22 March: 2.5 hour coding test
 
 ## Codewars Profile
 
