@@ -421,6 +421,9 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 21 March: 2.5 hour coding test and practice, 2.5 hour another coding test
 - 22 March: 2.5 hour coding test
 - 24 March: 1.5 hour coding test
+- 25th March: 2 hour moving wordpress sites to new hosting
+- 26th March: 4 hour moving wordpress sites to new hosting
+- 27th March: 2.5 hour coding test
 
 ## Codewars Profile
 
