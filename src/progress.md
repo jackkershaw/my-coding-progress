@@ -423,7 +423,10 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 24 March: 1.5 hour coding test
 - 25th March: 2 hour moving wordpress sites to new hosting
 - 26th March: 4 hour moving wordpress sites to new hosting
-- 27th March: 2.5 hour coding test
+- 27th March: 2.5 hour coding test, 1 hour job application cover
+- 28th March: 6 hour interview prep
+- 30th March: 2 hour wordpress maintenance, 2 hour interview prep
+- 31st March: 6 hour interview prep
 
 ## Codewars Profile
 
