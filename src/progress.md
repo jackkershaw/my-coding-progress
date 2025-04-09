@@ -427,6 +427,11 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 28th March: 6 hour interview prep
 - 30th March: 2 hour wordpress maintenance, 2 hour interview prep
 - 31st March: 6 hour interview prep
+- 1 April: 2 hour job interview and prep
+- 6 April: 7 hour Pluto
+- 7 April: 3 hour job application
+- 8 April: 3.5 hour job interview and interview prep
+- 9 April: 2 hour Pluto
 
 ## Codewars Profile
 
