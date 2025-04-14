@@ -431,7 +431,9 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 6 April: 7 hour Pluto
 - 7 April: 3 hour job application
 - 8 April: 3.5 hour job interview and interview prep
-- 9 April: 2 hour Pluto
+- 9 April: 2 hour Pluto, 2 hour interview
+- 10 April: 7 hour job applications
+- 14 April: 3.5 hour technical interview prep, 1 hour technical interview
 
 ## Codewars Profile
 
