@@ -434,6 +434,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 9 April: 2 hour Pluto, 2 hour interview
 - 10 April: 7 hour job applications
 - 14 April: 3.5 hour technical interview prep, 1 hour technical interview
+- 15 April: 2 hour job applications, 1 hour postgresql
+- 16 April: 3.5 hour postgresql
 
 ## Codewars Profile
 
