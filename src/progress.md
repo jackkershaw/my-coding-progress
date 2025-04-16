@@ -231,10 +231,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 26 February: 6 hours re-writing CV and cover letter.
 - 27 February: 0.5 hours editing cover letter, 7 hours working on portfolio.
 - 28 February: 5 hours working on portfolio, adding blog, 2.5 hours applying to jobs.
-- 29 February:
-  5 hours working on CV, portfolio and blog.
-- 1 March:
-  2.5 hours writing blog post and editing portfolio RSS, editing blog post drafts and progress section of personal site, 2 hours job applications, 1 hour debugging wordpress site, 2 hour applying to jobs
+- 29 February: 5 hours working on CV, portfolio and blog.
+- 1 March: 2.5 hours writing blog post and editing portfolio RSS, editing blog post drafts and progress section of personal site, 2 hours job applications, 1 hour debugging wordpress site, 2 hour applying to jobs
 - 4 March: 1 hour catching up developer news and working on portfolio edits, 1.5 applying for jobs, 1 hour open applications
 - 5 March: 3 hours working on target companies and part time list, 2.5 hours job list and looking at tech coops, 1.5 hour open applications.
 - 6 March: 1 hour open applications, 0.5 hours looking into django, drupal and web dev agencies in London, 4 hours brutalist map.
@@ -435,7 +433,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 10 April: 7 hour job applications
 - 14 April: 3.5 hour technical interview prep, 1 hour technical interview
 - 15 April: 2 hour job applications, 1 hour postgresql
-- 16 April: 3.5 hour postgresql
+- 16 April: 4.5 hour postgresql
 
 ## Codewars Profile
 
