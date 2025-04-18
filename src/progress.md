@@ -434,7 +434,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 14 April: 3.5 hour technical interview prep, 1 hour technical interview
 - 15 April: 2 hour job applications, 1 hour postgresql
 - 16 April: 4.5 hour postgresql
-- 17 April: 1 hour job interview including prep, 1.25 hour postgresql
+- 17 April: 1 hour job interview including prep, 1.25 hour postgresq
+- 18 April: 5 hour postgresql and bash exercises
 
 ## Codewars Profile
 
