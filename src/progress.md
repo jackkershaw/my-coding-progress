@@ -437,6 +437,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 17 April: 1 hour job interview including prep, 1.25 hour postgresq
 - 18 April: 5 hour postgresql and bash exercises
 - 22 April: 2 hour bash exercises, 5.5 hour payload cms coding task
+- 23 April: 2 hour Payload CMS coding task
 
 ## Codewars Profile
 
