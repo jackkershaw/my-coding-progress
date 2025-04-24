@@ -438,6 +438,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 18 April: 5 hour postgresql and bash exercises
 - 22 April: 2 hour bash exercises, 5.5 hour payload cms coding task
 - 23 April: 2.25 hour Payload CMS coding task
+- 24 April: 2.75 hour Payload CMS coding task
 
 ## Codewars Profile
 
