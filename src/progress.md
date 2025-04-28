@@ -439,6 +439,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 22 April: 2 hour bash exercises, 5.5 hour payload cms coding task
 - 23 April: 2.25 hour Payload CMS coding task
 - 24 April: 3 hour Payload CMS coding task
+- 28 April: 2 hour fixing Vercel project, 2 hour interview prep
 
 ## Codewars Profile
 
