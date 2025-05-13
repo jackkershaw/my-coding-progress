@@ -443,6 +443,8 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 29 April: 2 hour interview prep
 - 30 April: 3 hour interview prep
 
+- 13 May: 2.5 hour Zetkin
+
 ## Codewars Profile
 
 - I like using Codewars to improve my Javascript and Python. You can see my progress on my profile [here](https://www.codewars.com/users/jones58)
