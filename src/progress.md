@@ -444,6 +444,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 30 April: 3 hour interview prep
 
 - 13 May: 2.5 hour Zetkin
+- 14 May: 1.25 hour Zetkin and relational databases course
 
 ## Codewars Profile
 
