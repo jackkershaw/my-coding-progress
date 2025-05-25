@@ -446,6 +446,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 14 May: 1 hour Zetkin and relational databases course
 - 22 May: 1 hour interview and prep
 - 23 May: 4.5 hour coding test scoreboard, 2 hours making coding plan
+- 25 May: 1 hour frontend course
 
 ## Codewars Profile
 
