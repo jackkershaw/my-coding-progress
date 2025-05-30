@@ -453,6 +453,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 27 May: 1.75 hour frontend course
 - 28 May: 1.5 hour frontend course
 - 29 May: 1.25 hour frontend course
+- 30 May: 1 hour frontend course
 
 ## Codewars Profile
 
