@@ -455,6 +455,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 29 May: 1.25 hour frontend course
 - 30 May: 1 hour frontend course, 0.75 hour backend course
 - 5 June: 1.25 hour backend course
+- 7 June: 1.25 hour backend course
 
 ## Codewars Profile
 
@@ -462,7 +463,10 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 
 ## freeCodeCamp Profile
 
-- I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites. More recently I completed the [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures). You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
+- I owe a lot of my learning to freeCodeCamp. After completing the [responsive web design certification](https://www.freecodecamp.org/certification/jones58/responsive-web-design), I had the confidence to work on my own sites.
+- More recently I completed the [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures).
+- I also completed the [Frontend Development Libraries Certification](https://www.freecodecamp.org/certification/jones58/front-end-development-libraries)
+- You can see my progress through the freeCodeCamp curriculum [here](https://www.freecodecamp.org/jones58).
 
 ## Get In Touch
 
