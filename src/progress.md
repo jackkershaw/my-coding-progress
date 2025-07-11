@@ -462,7 +462,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 21 June: 2 hour backend course, 2.5 hour fare free london
 - 22 June: 4.25 hour fare free london
 - 24 June: 2 hour fare free london
-- 25 June: 2.25 hour backend cousrse
+- 11 July: 2.25 hour backend cousrse
 
 ## Codewars Profile
 
