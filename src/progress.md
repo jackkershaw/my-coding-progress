@@ -466,6 +466,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 12 July: 2 hour planning courses and options
 - 13 July: 1.5 hour learning Jest testing
 - 15 July: 1.5 hour Learning Jest and react testing library
+- 16 July: 2 hour React testing library
 
 ## Codewars Profile
 
