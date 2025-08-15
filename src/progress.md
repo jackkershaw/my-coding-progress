@@ -468,6 +468,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 15 July: 1.5 hour Learning Jest and react testing library
 - 16 July: 3.5 hour react testing library
 - 22 July: 5.5 hour Moulton redesign site
+- 23 July: 3 hour daily challenges
 
 ## Codewars Profile
 
