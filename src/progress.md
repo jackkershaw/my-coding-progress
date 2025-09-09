@@ -471,7 +471,7 @@ Keeping track of my journey learning to code, from October 2022 - Now. Hope this
 - 23 July: 3 hour daily challenges
 - 4 September: 1.5 hour daily challenges
 - 6 September: 1.5 hour daily challenges
-- 9 September: 1 hour daily challenges
+- 9 September: 1 hour daily challenges, 2 hour ai and python courses
 
 ## Codewars Profile
 
